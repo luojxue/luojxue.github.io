@@ -86,6 +86,3 @@ CGTN记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8
 厦门卫视,http://ivi.bupt.edu.cn/hls/xmtv.m3u8
 兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8
 延边卫视,http://ivi.bupt.edu.cn/hls/ybtv.m3u8
-三沙卫视,http://ivi.bupt.edu.cn/hls/sstv.m3u8
-
-
