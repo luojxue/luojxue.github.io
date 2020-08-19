@@ -22,9 +22,6 @@ NewTV-欢乐剧场,http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ott
 NewTV-超级电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
 CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-欢笑剧场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
-北京纪实蓝光,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
-纪实频道蓝光,http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 央视卫视,#genre# 
 CCTV-1综合,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8#http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8#http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
