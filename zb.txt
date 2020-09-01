@@ -1,5 +1,11 @@
 电影电视剧,#genre# 
-蓝光影视台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+蓝光影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+蓝光影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+蓝光影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+蓝光影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+蓝光影视16台,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 NewTV-精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
 NewTV-精品记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
 NewTV-精品大剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
