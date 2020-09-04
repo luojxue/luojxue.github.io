@@ -37,6 +37,7 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/1.m3u8
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225648/1.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225650/1.m3u8
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225651/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225701/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225749/1.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225658/1.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/1.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/1.m3u8
 辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/1.m3u8
@@ -58,7 +59,6 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/1.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/1.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/1.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/1.m3u8
-黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225658/1.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/1.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/1.m3u8
 北京少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/1.m3u8
