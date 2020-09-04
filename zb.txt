@@ -17,10 +17,7 @@
 湖北电视台教育频道,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 垄上频道,http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
 湖北休闲指南频道,http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-武汉三套科技生活频道,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉四套经济频道,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉文体频道,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-武汉七套少儿频道,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 黑龙江移动,#genre# 
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225755/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225767/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
