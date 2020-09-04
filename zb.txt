@@ -39,6 +39,14 @@ CCTV-15音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/1.m3
 CCTV-17农村农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
 CGTNd,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/1.m3u8
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/1.m3u8
+NewTV吉林 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
+NewTV四川 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+NewTV安徽 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
+NewTV山东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
+NewTV广东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
+NewTV江西 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
+NewTV云南 4M720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
+NewTV广西 4M720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/1.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/1.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/1.m3u8
@@ -72,14 +80,6 @@ CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/1.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/1.m3u8
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/1.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/1.m3u8
-NewTV吉林 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
-NewTV四川 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-NewTV安徽 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
-NewTV山东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-NewTV广东 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-NewTV江西 4M1080,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
-NewTV云南 4M720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
-NewTV广西 4M720,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/1.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/1.m3u8
 北京少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/1.m3u8
