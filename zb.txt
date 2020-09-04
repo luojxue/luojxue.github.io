@@ -228,9 +228,9 @@ CCTV-9记录,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
 CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15hd.m3u8
+CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 CCTV-17农村农业,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 CGTN,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 CGTN DOC,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
