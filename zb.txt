@@ -49,6 +49,11 @@ NewTV广西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.
 江苏卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227561/index.m3u8
 江苏卫视,http://39.134.65.162/PLTV/88888888/224/3221225568/index.m3u8
 湖南卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
+广东卫视,http://39.134.65.162/PLTV/88888888/224/3221225587/index.m3u8
+深圳卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227453/index.m3u8
+深圳卫视,http://39.134.65.162/PLTV/88888888/224/3221225668/index.m3u8
+湖北卫视,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227211/index.m3u8
+湖北卫视,http://39.134.65.162/PLTV/88888888/224/3221225594/index.m3u8
 浙江卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225899/3.m3u8
 东方卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225887/3.m3u8
 北京卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225975/3.m3u8
