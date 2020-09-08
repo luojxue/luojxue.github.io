@@ -26,8 +26,8 @@ CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CCTV-1综合,http://39.134.168.91/PLTV/1/224/3221225510/index.m3u8
 CCTV-1综合,http://39.134.65.162/PLTV/88888888/224/3221225493/index.m3u8
 CCTV-2财经,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226126/3.m3u8
-CCTV-3综艺,http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8
 CCTV-3综艺,http://39.134.65.162/PLTV/88888888/224/3221225490/index.m3u8
+CCTV-3综艺,http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8
 CCTV-4中文国际,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226127/3.m3u8
 CCTV-5体育,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225904/3.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8
