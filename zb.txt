@@ -35,6 +35,8 @@ CCTV-7国防军事,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888
 CCTV-10科教,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226129/3.m3u8
 CCTV-11戏曲,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226130/3.m3u8
 CCTV-12社会与法,http://39.135.249.210/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226131/3.m3u8
+CCTV-13新闻,http://117.169.120.141:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+CCTV-13新闻,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225508/index.m3u8
 CCTV-13新闻,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226132/3.m3u8
 CCTV-14少儿,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226134/3.m3u8
 CCTV-15音乐,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226133/3.m3u8
