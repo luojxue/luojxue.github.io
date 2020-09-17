@@ -7,18 +7,6 @@
 湖北电视台教育频道,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 垄上频道,http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
 湖北休闲指南频道,http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-武汉三套科技生活频道,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉四套经济频道,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉文体频道,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-武汉七套少儿频道,http://stream.appwuhan.com/7tzb/sd/live.m3u8
-武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-蓝光影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-蓝光影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-蓝光影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-蓝光影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-蓝光影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
 CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 欢笑剧场蓝光,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
@@ -29,7 +17,7 @@ CCTV-2财经,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/22
 CCTV-3综艺,http://39.134.65.162/PLTV/88888888/224/3221225490/index.m3u8
 CCTV-3综艺,http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8
 CCTV-4中文国际,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226127/3.m3u8
-CCTV-5体育,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225904/3.m3u8
+CCTV-5体育,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226195/3.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8
 CCTV-7国防军事,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226128/3.m3u8
 CCTV-10科教,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226129/3.m3u8
@@ -94,7 +82,6 @@ cetv4,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/32212
 甘肃卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226172/3.m3u8
 兵团卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226171/3.m3u8
 宁夏卫视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226173/3.m3u8
-CCTV-5体育,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226195/3.m3u8
 CCTV-10科教,http://39.135.249.210/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226129/3.m3u8
 CCTV-14少儿,http://39.135.249.210/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226134/3.m3u8
 CCTV-15音乐,http://39.135.249.210/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226133/3.m3u8
