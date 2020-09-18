@@ -44,8 +44,11 @@ CCTV-3综艺,http://39.134.65.162/PLTV/88888888/224/3221225490/index.m3u8
 CCTV-3综艺,http://39.134.168.91/PLTV/1/224/3221225552/index.m3u8
 CCTV-4中文国际,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226127/3.m3u8
 CCTV-5体育,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226195/3.m3u8
+CCTV-5+体育赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8
 CCTV-7国防军事,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226128/3.m3u8
+CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/1.m3u8
+CCTV-9纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
 CCTV-10科教,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226129/3.m3u8
 CCTV-11戏曲,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226130/3.m3u8
 CCTV-12社会与法,http://39.135.249.210/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226131/3.m3u8
