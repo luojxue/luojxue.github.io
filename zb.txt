@@ -1,12 +1,4 @@
 影视,#genre# 
-湖北电视台综合频道,http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
-湖北经视,http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
-湖北公共新闻频道,http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
-湖北影视频道,http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
-湖北生活频道,http://live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
-湖北电视台教育频道,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
-垄上频道,http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
-湖北休闲指南频道,http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 CCTV-6电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
@@ -160,6 +152,14 @@ CGTN记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8
 纪实人文,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/3.m3u8
 全纪实,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226180/3.m3u8
 法治天地,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226142/3.m3u8
+湖北电视台综合频道,http://live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+湖北经视,http://live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+湖北公共新闻频道,http://live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
+湖北影视频道,http://live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+湖北生活频道,http://live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
+湖北电视台教育频道,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
+垄上频道,http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+湖北休闲指南频道,http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
 哈哈炫动,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8
 动漫秀场,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8
 动漫秀场,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226145/3.m3u8
