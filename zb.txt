@@ -11,6 +11,9 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 NewTV超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
 IPTV-6+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
+东方影视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
+欢笑剧场,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
+都市剧场,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/1.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/1.m3u8
 精品剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/1.m3u8
@@ -34,7 +37,6 @@ NewTV江西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.
 NewTV云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 NewTV广西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
 CCTV-8电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/1.m3u8
-都市剧场,http://39.135.249.210/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
 IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 湖北移动,#genre#
 CCTV-1综合,http://39.134.168.91/PLTV/1/224/3221225510/index.m3u8
