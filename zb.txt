@@ -7,11 +7,11 @@
 湖北电视台教育频道,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 垄上频道,http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
 湖北休闲指南频道,http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-CHC电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 黑莓电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225530/index.m3u8
 黑莓电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226008/index.m3u8
 精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
@@ -20,7 +20,7 @@ NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1
 IPTV-6+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/1.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/1.m3u8
-精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/1.m3u8
+精品剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/1.m3u8
 精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 精品剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225513/index.m3u8
 精品大剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225519/index.m3u8
