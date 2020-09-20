@@ -366,7 +366,7 @@ NewTV怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1
 CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8
 CGTN记录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8
 凤凰卫视中文台,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-凤凰卫视资讯台,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u
+凤凰卫视资讯台,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 上海新闻综合,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 上海新闻综合,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/3.m3u8
 上海ICS,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
