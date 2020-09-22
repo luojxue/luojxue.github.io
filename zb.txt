@@ -145,7 +145,7 @@ NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1
 黑龙江卫视 ,http://39.130.206.213:6410/gitv_live/G_HEILONGJIANG/G_HEILONGJIANG.m3u8 
 江西卫视 ,http://39.130.206.213:6410/gitv_live/JXWS/JXWS.m3u8 
 贵州卫视 ,http://39.130.206.213:6410/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
-CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
+CGTN纪录,http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 山东教育卫视 ,http://39.130.206.213:6410/gitv_live/G_SDETV/G_SDETV.m3u8
 CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 北京冬奥纪实 ,http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
@@ -172,8 +172,8 @@ CCTV10,http://39.130.206.213:6410/gitv_live/CCTV-10/CCTV-10.m3u8
 CCTV12 ,http://39.130.206.213:6410/gitv_live/CCTV-12/CCTV-12.m3u8 
 CCTV14 ,http://39.130.206.213:6410/gitv_live/G_CCTV-14/G_CCTV-14.m3u8 
 CCTV17 ,http://39.130.206.213:6410/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
-CGTN ,http://39.130.206.213:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8 
-CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL/G_CGTVJL.m3u8
+CGTN,http://39.130.206.213:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8 
+CGTN纪录,http://39.130.206.213:6410/gitv_live/G_CGTVJL/G_CGTVJL.m3u8
 CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1/G_CETV-1.m3u8 
 CETV-2,http://39.130.206.213:6410/gitv_live/G_CETV-2/G_CETV-2.m3u8
 CETV-4,http://39.130.206.213:6410/gitv_live/G_CETV-4/G_CETV-4.m3u8
@@ -223,7 +223,7 @@ CETV-4,http://223.110.241.137:6610/gitv/live1/G_CETV-4/G_CETV-4/.m3u8
 陕西卫视,http://223.110.241.137:6610/gitv/live1/G_SHANXI/G_SHANXI/.m3u8
 南方卫视,http://223.110.241.137:6610/gitv/live1/G_NANFANG/G_NANFANG/.m3u8
 广西卫视,http://223.110.241.137:6610/gitv/live1/GXWS/GXWS/.m3u8
-旅游卫视,http://223.110.241.137:6610/gitv/live1/LYWS/LYWS/.m3u8
+海南卫视,http://223.110.241.137:6610/gitv/live1/LYWS/LYWS/.m3u8
 云南卫视,http://223.110.241.137:6610/gitv/live1/G_YUNNAN/G_YUNNAN/.m3u8
 兵团卫视,http://223.110.241.137:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/.m3u8
 延边卫视,http://223.110.241.137:6610/gitv/live1/G_YANBIAN/G_YANBIAN/.m3u8
