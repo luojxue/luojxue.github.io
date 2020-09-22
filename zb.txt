@@ -49,14 +49,11 @@ CCTV5+,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/.m
 CCTV6,http://223.110.241.137:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
 CCTV7,http://223.110.241.137:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8
 CCTV8,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/.m3u8
-CCTV9,http://39.130.206.213:6410/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 CCTV9,http://223.110.241.137:6610/gitv/live1/G_CCTV-9/G_CCTV-9/.m3u8
 CCTV10,http://223.110.241.137:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/.m3u8
 CCTV11,http://223.110.241.137:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/.m3u8
-CCTV12,http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 CCTV12,http://223.110.241.137:6610/gitv/live1/CCTV-12/CCTV-12/.m3u8
 CCTV13,http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
-CCTV14,http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8 
 CCTV14,http://223.110.241.137:6610/gitv/live1/G_CCTV-14/G_CCTV-14/.m3u8
 CCTV15,http://223.110.241.137:6610/gitv/live1/G_CCTV-15/G_CCTV-15/.m3u8
 CCTV1,http://39.130.206.213:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8 
@@ -69,9 +66,12 @@ CCTV5+,http://39.130.206.213:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 CCTV6,http://39.130.206.213:6410/gitv_live/CCTV-6/CCTV-6.m3u8 
 CCTV7,http://39.130.206.213:6410/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8 
 CCTV8,http://39.130.206.213:6410/gitv_live/G_CCTV-8/G_CCTV-8.m3u8 
-CCTV11,http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8 
-CCTV11,http://39.130.206.213:6410/gitv_live/CCTV-11/CCTV-11.m3u8 
+CCTV9,http://39.130.206.213:6410/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
+CCTV10,http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8 
+CCTV11,http://39.130.206.213:6410/gitv_live/CCTV-11/CCTV-11.m3u8
+CCTV12,http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8 
 CCTV13,http://39.130.206.213:6410/gitv_live/CCTV-13/CCTV-13.m3u8 
+CCTV14,http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 CCTV15,http://39.130.206.213:6410/gitv_live/G_CCTV-15/G_CCTV-15.m3u8 
 CCTV17,http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 江苏卫视 ,http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8 
@@ -145,11 +145,11 @@ NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1
 江西卫视 ,http://39.130.206.213:6410/gitv_live/JXWS/JXWS.m3u8 
 贵州卫视 ,http://39.130.206.213:6410/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
 CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-山东教育卫视 ,http://39.130.206.213:6410/gitv_live/G_SDETV/G_SDETV.m3u8
+山东教育电视台 ,http://39.130.206.213:6410/gitv_live/G_SDETV/G_SDETV.m3u8
 CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-北京冬奥纪实 ,http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
-上海纪实人文 ,http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8 
-湖南金鹰纪实 ,http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8 
+冬奥纪实 ,http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
+纪实人文 ,http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8 
+金鹰纪实 ,http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8 
 云南影视 ,http://39.130.206.213:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8 
 广西卫视 ,http://39.130.206.213:6410/gitv_live/GXWS/GXWS.m3u8 
 宁夏卫视 ,http://39.130.206.213:6410/gitv_live/G_NINGXIA/G_NINGXIA.m3u8 
@@ -160,9 +160,9 @@ CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 新疆卫视 ,http://39.130.206.213:6410/gitv_live/G_XINJIANG/G_XINJIANG.m3u8 
 西藏卫视 ,http://39.130.206.213:6410/gitv_live/G_XIZANG/G_XIZANG.m3u8 
 海南卫视 ,http://39.130.206.213:6410/gitv_live/LYWS/LYWS.m3u8 
-广东南方卫视 ,http://39.130.206.213:6410/gitv_live/G_NANFANG/G_NANFANG.m3u8 
-陕西农林卫视 ,http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
-新疆兵团卫视 ,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
+南方卫视 ,http://39.130.206.213:6410/gitv_live/G_NANFANG/G_NANFANG.m3u8 
+农林卫视 ,http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
+兵团卫视 ,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
 CCTV1 ,http://39.130.206.213:6410/gitv_live/G_CCTV-1/G_CCTV-1.m3u8 
 CCTV2 ,http://39.130.206.213:6410/gitv_live/G_CCTV-2/G_CCTV-2.m3u8 
 CCTV4 ,http://39.130.206.213:6410/gitv_live/CCTV-4/CCTV-4.m3u8 
@@ -891,137 +891,3 @@ KAKU少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225551/index.m
 KAKU少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 黑莓动画,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225516/index.m3u8
-北邮教育,#genre# 
-CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-CCTV-4中文国际,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-CCTV-5体育,http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
-CCTV-5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV-6电影,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-CCTV-7国防军事,http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-CCTV-8电视剧,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-CCTV-9记录,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-CCTV-10科教,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-CCTV-11戏曲,http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
-CCTV-12社会与法,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV-14少儿,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CCTV-17农村农业,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-CGTN,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
-CGTN DOC,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
-CHC,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CETV-1,http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
-CETV-3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8
-CETV-4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8
-山东教育,http://ivi.bupt.edu.cn/hls/sdetv.m3u8
-浙江卫视,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
-东方卫视,http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-湖南卫视,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-深圳卫视,http://ivi.bupt.edu.cn/hls/szhd.m3u8
-北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-北京影视,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
-北京新闻,http://ivi.bupt.edu.cn/hls/btv9hd.m3u8
-北京冬奥纪实,http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-安徽卫视,http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-黑龙江卫视,http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-辽宁卫视,http://ivi.bupt.edu.cn/hls/lntv.m3u8
-天津卫视,http://ivi.bupt.edu.cn/hls/tjtv.m3u8
-湖北卫视,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-山东卫视,http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-山东教育,http://ivi.bupt.edu.cn/hls/sdetv.m3u8
-重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-上海纪实,http://ivi.bupt.edu.cn/hls/docuchina.m3u8
-金鹰纪实,http://ivi.bupt.edu.cn/hls/gedocu.m3u8
-福建东南卫视,http://ivi.bupt.edu.cn/hls/dnhd.m3u8
-四川卫视,http://ivi.bupt.edu.cn/hls/schd.m3u8
-河北卫视,http://ivi.bupt.edu.cn/hls/hebhd.m3u8
-江西卫视,http://ivi.bupt.edu.cn/hls/jxtv.m3u8
-河南卫视,http://ivi.bupt.edu.cn/hls/hntv.m3u8
-广西卫视,http://ivi.bupt.edu.cn/hls/gxhd.m3u8
-吉林卫视,http://ivi.bupt.edu.cn/hls/jlhd.m3u8
-海南卫视,http://ivi.bupt.edu.cn/hls/lyhd.m3u8
-贵州卫视,http://ivi.bupt.edu.cn/hls/gzhd.m3u8
-西藏卫视,http://ivi.bupt.edu.cn/hls/xztv.m3u8
-内蒙古卫视,http://ivi.bupt.edu.cn/hls/nmtv.m3u8
-青海卫视,http://ivi.bupt.edu.cn/hls/qhtv.m3u8
-陕西卫视,http://ivi.bupt.edu.cn/hls/sxtv.m3u8
-山西卫视,http://ivi.bupt.edu.cn/hls/sxrtv.m3u8
-厦门卫视,http://ivi.bupt.edu.cn/hls/xmtv.m3u8
-新疆卫视,http://ivi.bupt.edu.cn/hls/xjtv.m3u8
-云南卫视,http://ivi.bupt.edu.cn/hls/yntv.m3u8
-宁夏卫视,http://ivi.bupt.edu.cn/hls/nxtv.m3u8
-甘肃卫视,http://ivi.bupt.edu.cn/hls/gstv.m3u8
-兵团卫视,http://ivi.bupt.edu.cn/hls/bttv.m3u8
-延边卫视,http://ivi.bupt.edu.cn/hls/ybtv.m3u8
-三沙卫视,http://ivi.bupt.edu.cn/hls/sstv.m3u8
-重庆卫视,http://ivi.bupt.edu.cn/hls/cqtv.m3u8
-联通频道,#genre# 
-CCTV1高清,http://121.31.30.87:8085/ysten-business/live/hdcctv01/1.m3u8
-CCTV2高清,http://121.31.30.87:8085/ysten-business/live/cctv-2/1.m3u8
-CCTV3高清,http://121.31.30.87:8085/ysten-business/live/cctv-3/1.m3u8
-CCTV4高清,http://121.31.30.87:8085/ysten-business/live/cctv-4/1.m3u8
-CCTV5高清,http://121.31.30.87:8085/ysten-business/live/cctv-5/1.m3u8
-CCTV+5高清,http://121.31.30.87:8085/ysten-business/live/hdcctv05plus/1.m3u8
-CCTV6高清,http://121.31.30.87:8085/ysten-business/live/cctv-6/1.m3u8
-CCTV7高清,http://121.31.30.87:8085/ysten-business/live/cctv-7/1.m3u8
-CCTV8高清,http://121.31.30.87:8085/ysten-business/live/cctv-8/1.m3u8
-CCTV9高清,http://121.31.30.87:8085/ysten-business/live/cctv-9/1.m3u8
-CCTV10高清,http://121.31.30.87:8085/ysten-business/live/cctv-10/1.m3u8
-CCTV11高清,http://121.31.30.87:8085/ysten-business/live/cctv-11/1.m3u8
-CCTV12高清,http://121.31.30.87:8085/ysten-business/live/cctv-12/1.m3u8
-CCTV13高清,http://121.31.30.87:8085/ysten-business/live/cctv-13/1.m3u8
-CCTV14高清,http://121.31.30.87:8085/ysten-business/live/cctv-14/1.m3u8
-CCTV15高清,http://121.31.30.87:8085/ysten-business/live/cctv-15/1.m3u8
-CETV1中国教育HD,http://121.31.30.87:8085/ysten-business/live/jiaoyutv/1.m3u8
-浙江高清,http://121.31.30.91:8085/ysten-business/live/hdzhejiangstv/1.m3u8
-江苏高清,http://121.31.30.87:8085/ysten-business/live/hdjiangsustv/1.m3u8
-湖南高清,http://121.31.30.87:8085/ysten-business/live/hdhunanstv/1.m3u8
-东方高清,http://121.31.30.87:8085/ysten-business/live/hddongfangstv/1.m3u8
-北京高清,http://121.31.30.87:8085/ysten-business/live/hdbeijingstv/1.m3u8
-广东高清,http://121.31.30.87:8085/ysten-business/live/hdguangdongstv/1.m3u8
-天津高清,http://121.31.30.87:8085/ysten-business/live/hdtianjinstv/1.m3u8
-深圳高清,http://121.31.30.87:8085/ysten-business/live/hdshenzhenstv/1.m3u8
-山东高清,http://121.31.30.87:8085/ysten-business/live/hdshandongstv/1.m3u8
-黑龙江高清,http://121.31.30.87:8085/ysten-business/live/hdheilongjiangstv/1.m3u8
-江西高清,http://121.31.30.87:8085/ysten-business/live/jiangxistv/1.m3u8
-重庆高清,http://121.31.30.87:8085/ysten-business/live/chongqingstv/1.m3u8
-辽宁高清,http://121.31.30.87:8085/ysten-business/live/liaoningstv/1.m3u8
-河北高清,http://121.31.30.87:8085/ysten-business/live/hebeistv/1.m3u8
-湖北高清,http://121.31.30.87:8085/ysten-business/live/hubeistv/1.m3u8
-安徽高清,http://121.31.30.87:8085/ysten-business/live/anhuistv/1.m3u8
-内蒙高清,http://live.m2oplus.nmtv.cn:80/1/sd/live.m3u8
-四川卫视,http://121.31.30.87:8085/ysten-business/live/sichuanstv/1.m3u8
-广西卫视,http://121.31.30.87:8085/ysten-business/live/guangxistv/1.m3u8
-山西卫视,http://121.31.30.87:8085/ysten-business/live/shanxistv/1.m3u8
-陕西卫视,http://121.31.30.87:8085/ysten-business/live/shanxi1stv/1.m3u8
-河南卫视,http://121.31.30.87:8085/ysten-business/live/henanstv/1.m3u8
-青海卫视,http://121.31.30.87:8085/ysten-business/live/qinghaistv/1.m3u8
-贵州卫视,http://121.31.30.87:8085/ysten-business/live/guizhoustv/1.m3u8
-宁夏卫视,http://121.31.30.87:8085/ysten-business/live/ningxiastv/1.m3u8
-甘肃卫视,http://121.31.30.87:8085/ysten-business/live/gansustv/1.m3u8
-新疆卫视,http://121.31.30.87:8085/ysten-business/live/xinjiangstv/1.m3u8
-海南卫视,http://121.31.30.87:8085/ysten-business/live/lvyoustv/1.m3u8
-吉林卫视,http://121.31.30.87:8085/ysten-business/live/jilinstv/1.m3u8
-西藏卫视,http://121.31.30.87:8085/ysten-business/live/xizangstv/1.m3u8
-云南卫视,http://121.31.30.87:8085/ysten-business/live/yunnanstv/1.m3u8
-内蒙新闻,http://live4.m2oplus.nmtv.cn:80/7/sd/live.m3u8
-内蒙农牧,http://live4.m2oplus.nmtv.cn:80/6/sd/live.m3u8
-内蒙娱乐,http://live4.m2oplus.nmtv.cn:80/8/sd/live.m3u8
-内蒙经济,http://live5.m2oplus.nmtv.cn:80/2/sd/live.m3u8
-内蒙蒙语,http://live5.m2oplus.nmtv.cn:80/3/sd/live.m3u8
-内蒙少儿,http://live5.m2oplus.nmtv.cn:80/4/sd/live.m3u8
-内蒙文化,http://live5.m2oplus.nmtv.cn:80/5/sd/live.m3u8
-内蒙高清,http://live.m2oplus.nmtv.cn:80/1/sd/live.m3u8
-包头经济频道,http://live.btgdt.com/channels/btgd/jjpd/m3u8:500k
-包头生活服务,http://live.btgdt.com/channels/btgd/shfw/m3u8:500k
-鄂前旗,http://liveetkqq.sobeycache.com/etkqq/zb1.m3u8?auth_key=1601002939-0-0-d82f8642cc63a650860f080cca591ae6
-鄂尔多斯新闻综合,http://live.erdszs.org.cn:80/16XW47m/800/live.m3u8 
-鄂尔多斯经济服务,http://live.erdszs.org.cn:80/skr9x4S/800/live.m3u8
-鄂尔多斯城市生活,http://live.erdszs.org.cn:80/Wwz5Rge/800/live.m3u8
-鄂尔多斯蒙语综合,http://live.erdszs.org.cn:80/634d7Ls/800/live.m3u8
-准格尔旗,http://player.ioioz.com:80/1786/0/qkppm3u8.php?id=zge
