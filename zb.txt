@@ -92,7 +92,6 @@ CETV-1,http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/.m3u8
 CETV-2,http://223.110.241.137:6610/gitv/live1/G_CETV-2/G_CETV-2/.m3u8
 CETV-4,http://223.110.241.137:6610/gitv/live1/G_CETV-4/G_CETV-4/.m3u8
 CETV-3,http://223.110.241.137:6610/gitv/live1/G_CETV-3/G_CETV-3/.m3u8
-兵团卫视,http://223.110.241.137:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/.m3u8
 陕西卫视,http://223.110.241.137:6610/gitv/live1/G_SHANXI/G_SHANXI/.m3u8
 南方卫视,http://223.110.241.137:6610/gitv/live1/G_NANFANG/G_NANFANG/.m3u8
 内蒙古卫视,http://223.110.241.137:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/.m3u8
@@ -128,6 +127,7 @@ NewTV军事评论,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1
 NewTV怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
 NewTV家庭剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+兵团卫视,http://223.110.241.137:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/.m3u8
 延边卫视,http://223.110.241.137:6610/gitv/live1/G_YANBIAN/G_YANBIAN/.m3u8
 青海卫视,http://223.110.241.137:6610/gitv/live1/G_QINGHAI/G_QINGHAI/.m3u8
 宁夏卫视,http://223.110.241.137:6610/gitv/live1/G_NINGXIA/G_NINGXIA/.m3u8
