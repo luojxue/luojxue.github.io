@@ -8,6 +8,7 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 黑莓电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225530/index.m3u8
 黑莓电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226008/index.m3u8
 精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8 
 NewTV超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
 IPTV-6+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
@@ -21,6 +22,7 @@ IPTV-6+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
 精品剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225513/index.m3u8
 精品大剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225519/index.m3u8
 IPTV-8+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8 
 NewTV超级电视剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 NewTV明星大片,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
 NewTV爱情喜剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
@@ -56,6 +58,12 @@ CCTV-13新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/1.m3
 CCTV-14少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV-15音乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
 CCTV-17农村农业,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8 
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8 
+淘Baby,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8 
+萌宠TV,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8 
+大健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 NewTV吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
 NewTV四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
 NewTV安徽,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
