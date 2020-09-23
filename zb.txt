@@ -40,7 +40,6 @@ NewTV云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.
 NewTV广西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
 IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
 G+经典剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-G+都市剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
 G+谍战剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
 CCTV1,http://223.110.241.137:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/.m3u8
 CCTV2,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/.m3u8
@@ -123,7 +122,6 @@ NewTV怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1
 NewTV家庭剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
 G+经典剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-G+都市剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
 G+谍战剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
 G+动画乐园,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
 G+海外佳片,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
