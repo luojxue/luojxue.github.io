@@ -249,7 +249,7 @@ CGTN,http://223.110.241.137:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/.m3u8
 西藏卫视,http://223.110.241.137:6610/gitv/live1/G_XIZANG/G_XIZANG/.m3u8
 优漫卡通,http://223.110.241.137:6610/gitv/live1/G_YOUMAN/G_YOUMAN/.m3u8
 安多卫视,http://223.110.241.137:6610/gitv/live1/G_ANDUO/G_ANDUO/.m3u8
-吉林篮球,http://223.110.241.137:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/.m3u8
+篮球,http://223.110.241.137:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/.m3u8
 农林卫视,http://223.110.241.137:6610/gitv/live1/G_NONGLIN/G_NONGLIN/.m3u8
 康巴卫视,http://223.110.241.137:6610/gitv/live1/G_KANGBA/G_KANGBA/.m3u8
 京视剧场,http://223.110.241.137:6610/gitv/live1/G_JINGJU/G_JINGJU/.m3u8
