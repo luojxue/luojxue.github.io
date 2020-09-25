@@ -10,7 +10,6 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8 
 NewTV超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 NewTV动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
-IPTV-6+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
 G+海外佳片,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 G+华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 东方影视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
@@ -21,7 +20,6 @@ G+华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/
 精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 精品剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225513/index.m3u8
 精品大剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225519/index.m3u8
-IPTV-8+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
 淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8 
 NewTV超级电视剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
 NewTV明星大片,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
@@ -119,6 +117,22 @@ CCTV17,http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 贵州卫视 ,http://39.130.206.213:6410/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
 海南卫视 ,http://39.130.206.213:6410/gitv_live/LYWS/LYWS.m3u8 
 内蒙古卫视 ,http://39.130.206.213:6410/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8 
+CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
+山东教育电视台 ,http://39.130.206.213:6410/gitv_live/G_SDETV/G_SDETV.m3u8
+CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
+冬奥纪实 ,http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
+纪实人文 ,http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8 
+金鹰纪实 ,http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8 
+广西卫视 ,http://39.130.206.213:6410/gitv_live/GXWS/GXWS.m3u8 
+宁夏卫视 ,http://39.130.206.213:6410/gitv_live/G_NINGXIA/G_NINGXIA.m3u8 
+陕西卫视 ,http://39.130.206.213:6410/gitv_live/G_SHANXI/G_SHANXI.m3u8 
+甘肃卫视 ,http://39.130.206.213:6410/gitv_live/G_GANSU/G_GANSU.m3u8 
+青海卫视 ,http://39.130.206.213:6410/gitv_live/G_QINGHAI/G_QINGHAI.m3u8 
+新疆卫视 ,http://39.130.206.213:6410/gitv_live/G_XINJIANG/G_XINJIANG.m3u8 
+西藏卫视 ,http://39.130.206.213:6410/gitv_live/G_XIZANG/G_XIZANG.m3u8 
+南方卫视 ,http://39.130.206.213:6410/gitv_live/G_NANFANG/G_NANFANG.m3u8 
+农林卫视 ,http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
+兵团卫视 ,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
 4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8 
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8 
@@ -162,22 +176,6 @@ G+华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/
 湖北电视台教育频道,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 垄上频道,http://live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
 湖北休闲指南频道,http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-山东教育电视台 ,http://39.130.206.213:6410/gitv_live/G_SDETV/G_SDETV.m3u8
-CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-冬奥纪实 ,http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
-纪实人文 ,http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8 
-金鹰纪实 ,http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8 
-广西卫视 ,http://39.130.206.213:6410/gitv_live/GXWS/GXWS.m3u8 
-宁夏卫视 ,http://39.130.206.213:6410/gitv_live/G_NINGXIA/G_NINGXIA.m3u8 
-陕西卫视 ,http://39.130.206.213:6410/gitv_live/G_SHANXI/G_SHANXI.m3u8 
-甘肃卫视 ,http://39.130.206.213:6410/gitv_live/G_GANSU/G_GANSU.m3u8 
-青海卫视 ,http://39.130.206.213:6410/gitv_live/G_QINGHAI/G_QINGHAI.m3u8 
-新疆卫视 ,http://39.130.206.213:6410/gitv_live/G_XINJIANG/G_XINJIANG.m3u8 
-西藏卫视 ,http://39.130.206.213:6410/gitv_live/G_XIZANG/G_XIZANG.m3u8 
-南方卫视 ,http://39.130.206.213:6410/gitv_live/G_NANFANG/G_NANFANG.m3u8 
-农林卫视 ,http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
-兵团卫视 ,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
 CCTV1 ,http://39.130.206.213:6410/gitv_live/G_CCTV-1/G_CCTV-1.m3u8 
 CCTV2 ,http://39.130.206.213:6410/gitv_live/G_CCTV-2/G_CCTV-2.m3u8 
 CCTV4 ,http://39.130.206.213:6410/gitv_live/CCTV-4/CCTV-4.m3u8 
