@@ -80,6 +80,11 @@ Newtv,#genre#
 湖北生活,http://live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
 湖北教育,http://live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 湖北休闲指南,http://live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
+武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8 
+武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8 
+武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8 
+武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8 
+武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 北京IPTV4K超清 17M2160,http://221.179.136.149/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 北京IPTV淘BABY,http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
 北京IPTV淘剧场,http://221.179.136.139/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
