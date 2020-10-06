@@ -1,8 +1,5 @@
 移动线路一,#genre#  
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
-CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
@@ -175,12 +172,12 @@ CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8 
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8 
 武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-北京IPTV4K超清 17M2160,http://221.179.136.149/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-北京IPTV淘BABY,http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
-北京IPTV淘剧场,http://221.179.136.139/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-北京IPTV淘娱乐,http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
-北京IPTV淘电影,http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-北京IPTV萌宠TV,http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
+4K超清,http://221.179.136.149/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
+淘BABY,http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
+淘剧场,http://221.179.136.139/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
+淘娱乐,http://221.179.136.151/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
+淘电影,http://221.179.136.144/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
+萌宠TV,http://221.179.136.146/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
 大健康,http://111.13.42.45/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 NewTV中国功夫,http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
 NewTV中国功夫,http://221.179.136.138/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
