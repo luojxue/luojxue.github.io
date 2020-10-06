@@ -1,11 +1,11 @@
 影视频道,#genre# 
 峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 黑莓电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225530/index.m3u8
 黑莓电影 ,http://221.179.136.150/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
