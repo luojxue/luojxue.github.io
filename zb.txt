@@ -110,6 +110,8 @@ CCTV17,http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 山东卫视 ,http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8 
 东南卫视 ,http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8 
 江西卫视 ,http://39.130.206.213:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8 
+辽宁卫视,http://39.130.206.213:6410/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8 
+广东卫视,http://39.130.206.213:6410/gitv_live/GDWS-HD/GDWS-HD.m3u8 
 深圳卫视 ,http://39.130.206.213:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8 
 贵州卫视 ,http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8 
 重庆卫视 ,http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8 
