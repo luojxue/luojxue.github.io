@@ -173,13 +173,13 @@ CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8 
 武汉少儿,http://stream.appwuhan.com/7tzb/sd/live.m3u8 
 武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
-4K超清,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 淘BABY,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
 淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 淘娱乐,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
 淘电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 萌宠TV,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
 大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
+4K超清,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 NewTV东北热剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV中国功夫 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 NewTV农业致富 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
