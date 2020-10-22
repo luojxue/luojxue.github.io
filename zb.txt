@@ -94,6 +94,7 @@ CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1/G_CETV-1.m3u8
 西藏卫视 ,http://39.130.206.213:6410/gitv_live/G_XIZANG/G_XIZANG.m3u8 
 农林卫视 ,http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
 兵团卫视 ,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
+CGTN ,http://39.130.206.213:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8 
 湖北综合,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
 湖北经视,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
 湖北公共,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
@@ -170,15 +171,14 @@ NewTV军旅剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676
 NewTV古装剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 NewTV家庭剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 NewTV明星大片 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV海外剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 NewTV爱情喜剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+NewTV精品大剧 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
 NewTV精品大剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 NewTV超级电视剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV军旅剧场 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
 NewTV古装剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
 NewTV家庭剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
 NewTV明星大片,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
-NewTV海外剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
 NewTV爱情喜剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
 NewTV精品大剧 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
 NewTV超级电视剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
@@ -389,7 +389,6 @@ CCTV14 ,http://39.130.206.213:6410/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
 CCTV17 ,http://39.130.206.213:6410/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
 CETV-2,http://39.130.206.213:6410/gitv_live/G_CETV-2/G_CETV-2.m3u8
 CETV-4,http://39.130.206.213:6410/gitv_live/G_CETV-4/G_CETV-4.m3u8
-CGTN ,http://39.130.206.213:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8 
 南方卫视 ,http://39.130.206.213:6410/gitv_live/G_NANFANG/G_NANFANG.m3u8 
 CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
 CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL/G_CGTVJL.m3u8
