@@ -1,0 +1,67 @@
+湖北综合,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+湖北经视,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+湖北公共,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
+湖北垄上,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+湖北影视,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8#http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+湖北生活,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
+湖北教育,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
+湖北休闲指南,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
+湖北综合,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+湖北经视,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+湖北公共,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
+湖北垄上,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+湖北影视,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8#http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+湖北生活,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
+湖北教育,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
+湖北休闲指南,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
+湖北综合,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+湖北经视,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+湖北公共,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
+湖北垄上,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+湖北影视,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8#http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+湖北生活,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
+湖北教育,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
+湖北休闲指南,http://183.201.217.100/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
+湖北综合,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+湖北经视,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+湖北公共,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
+湖北垄上,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+湖北影视,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8#http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+湖北生活,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
+湖北教育,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
+湖北休闲指南,http://36.150.43.113/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
+湖北综合,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
+湖北经视,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
+湖北公共,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
+湖北垄上,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
+湖北影视,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8#http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
+湖北生活,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
+湖北教育,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
+湖北休闲指南,http://223.111.25.242/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
+
+
+
+南宁移动有效IP段    36.159.98.230-36.159.98.249
+武汉电信 116.211.183.107
+常州电信 58.216.16.35
+成都电信 110.185.121.219
+泉州电信 125.77.170.238
+廊坊电信 124.238.245.64
+上海电信 101.226.26.230
+抚顺电信 123.246.197.148
+
+青岛联通 119.167.237.230
+郑州联通 42.236.87.243
+郑州联通 42.236.87.239
+
+南宁移动 36.159.98.248
+太原移动 183.201.217.100
+南京移动 36.150.43.113
+南京移动 223.111.25.242
+
+
+长江云代理源码
+<?php
+$url='http://app.cjyun.org/video/player/stream?stream_id='.$_GET['id'].'&site_id=10008';
+header('Location:'.json_decode(file_get_contents($url))->stream);
+?>
