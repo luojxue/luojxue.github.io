@@ -94,8 +94,8 @@ CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1/G_CETV-1.m3u8
 西藏卫视 ,http://39.130.206.213:6410/gitv_live/G_XIZANG/G_XIZANG.m3u8 
 农林卫视 ,http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
 兵团卫视 ,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
-大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 CGTN ,http://39.130.206.213:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8 
+大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 湖北综合,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
 湖北经视,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
 湖北公共,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
