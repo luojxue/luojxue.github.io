@@ -379,14 +379,25 @@ CGTN ,http://39.130.206.213:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
 优漫卡通 ,http://39.130.206.213:6410/gitv_live/G_YOUMAN/G_YOUMAN.m3u8   
 云南卫视 ,http://39.130.206.213:6410/gitv_live/G_YUNNAN/G_YUNNAN.m3u8 
 云南影视 ,http://39.130.206.213:6410/gitv_live/G_YNTV-5/G_YNTV-5.m3u8 
+江苏卫视 ,http://223.110.241.137:6610/gitv/live1/G_JIANGSU-HD/G_JIANGSU-HD/.m3u8 
+湖南卫视 ,http://223.110.241.137:6610/gitv/live1/HNWS-HD/HNWS-HD/.m3u8 
+浙江卫视 ,http://223.110.241.137:6610/gitv/live1/ZJWS-HD/ZJWS-HD/.m3u8 
+东方卫视 ,http://223.110.241.137:6610/gitv/live1/DFWS-HD/DFWS-HD/.m3u8 
+北京卫视 ,http://223.110.241.137:6610/gitv/live1/BTV-1/BTV-1/.m3u8  
+山东卫视 ,http://223.110.241.137:6610/gitv/live1/G_SHANDONG-HD/G_SHANDONG-HD/.m3u8 
+黑龙江卫视 ,http://223.110.241.137:6610/gitv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/.m3u8
+湖北卫视 ,http://223.110.241.137:6610/gitv/live1/G_HUBEI-HQ/G_HUBEI-HQ/.m3u8 
+天津卫视 ,http://223.110.241.137:6610/gitv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/.m3u8 
+辽宁卫视,http://223.110.241.137:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ/.m3u8 
+广东卫视,http://223.110.241.137:6610/gitv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/.m3u8 
+深圳卫视 ,http://223.110.241.137:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/.m3u8 
 湖南卫视,http://223.110.241.137:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/1.m3u8                                                                 
 江苏卫视,http://223.110.241.137:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8                                                                
 北京卫视,http://223.110.241.137:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/1.m3u8                                                     
 浙江卫视,http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8                                                       
-东方卫视,http://223.110.241.137:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8                                                               
-山东卫视,http://223.110.241.137:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/1.m3u8     
+东方卫视,http://223.110.241.137:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8   
+安徽卫视 ,http://223.110.241.137:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/.m3u8 
 浙江卫视,http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/.m3u8
-江苏卫视,http://223.110.241.137:6610/gitv/live1/JSWS-HD/JSWS-HD/.m3u8
 湖南卫视,http://223.110.241.137:6610/gitv/live1/G_HUNAN/G_HUNAN/.m3u8
 安徽卫视,http://223.110.241.137:6610/gitv/live1/AHWS/AHWS/.m3u8
 辽宁卫视,http://223.110.241.137:6610/gitv/live1/LNWS/LNWS/.m3u8
