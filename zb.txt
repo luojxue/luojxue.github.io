@@ -112,7 +112,6 @@ CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1/G_CETV-1.m3u8
 湖北教育,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 湖北休闲指南,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
 武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8 
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8 
 武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 东方影视,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
