@@ -91,9 +91,6 @@ CCTV-17农业农村,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17
 南方卫视,http://211.137.115.110:8080/gitv_live/G_NANFANG/G_NANFANG.m3u8
 厦门卫视,http://211.137.115.110:8080/gitv_live/G_XIAMEN/G_XIAMEN.m3u8
 CETV1,http://211.137.115.110:8080/gitv_live/G_CETV-1/G_CETV-1.m3u8
-CETV2,http://211.137.115.110:8080/gitv_live/G_CETV-2/G_CETV-2.m3u8
-CETV3,http://211.137.115.110:8080/gitv_live/G_CETV-3/G_CETV-3.m3u8
-CETV4,http://211.137.115.110:8080/gitv_live/G_CETV-4/G_CETV-4.m3u8
 山东教育电视台,http://211.137.115.110:8080/gitv_live/G_SDETV/G_SDETV.m3u8
 农林卫视,http://211.137.115.110:8080/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
 大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
@@ -435,6 +432,9 @@ CCTV-8电视剧,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/.
 CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1/G_CCTV-1/.m3u8
 CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2/G_CCTV-2/.m3u8
 CCTV-8电视剧,http://223.110.241.137:6610/gitv/live1/G_CCTV-8/G_CCTV-8/.m3u8
+CETV2,http://211.137.115.110:8080/gitv_live/G_CETV-2/G_CETV-2.m3u8
+CETV3,http://211.137.115.110:8080/gitv_live/G_CETV-3/G_CETV-3.m3u8
+CETV4,http://211.137.115.110:8080/gitv_live/G_CETV-4/G_CETV-4.m3u8
 延边卫视,http://211.137.115.110:8080/gitv_live/G_YANBIAN/G_YANBIAN.m3u8
 安多卫视,http://211.137.115.110:8080/gitv_live/G_ANDUO/G_ANDUO.m3u8
 康巴卫视,http://211.137.115.110:8080/gitv_live/G_KANGBA/G_KANGBA.m3u8
