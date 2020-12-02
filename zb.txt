@@ -1,4 +1,4 @@
-移动线路一,#genre#  
+南京线路,#genre#  
 CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/.m3u8
 CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/.m3u8
 CCTV-3综艺,http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
@@ -502,7 +502,7 @@ CCTV-13新闻,http://211.137.115.110:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3
 
 
 
-移动线路二,#genre#
+湖北线路,#genre#
 CCTV-1综合,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226235/index.m3u8
 CCTV-1综合,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226125/2.m3u8
 CCTV-2财经,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226126/3.m3u8
@@ -886,7 +886,7 @@ iHOT爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 
 
 
-移动线路三,#genre# 
+陕西线路,#genre# 
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
@@ -1272,7 +1272,7 @@ KAKU少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m
 
 
 
-移动线路四,#genre#
+黑龙江线路,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225755/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225767/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225746/1.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/1.m3u8
