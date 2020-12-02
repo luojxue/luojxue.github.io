@@ -15,481 +15,23 @@ CCTV-12社会与法,http://223.110.241.137:6610/gitv/live1/CCTV-12/CCTV-12/.m3u8
 CCTV-13新闻,http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/.m3u8
 CCTV-14少儿,http://223.110.241.137:6610/gitv/live1/G_CCTV-14/G_CCTV-14/.m3u8
 CCTV-15音乐,http://223.110.241.137:6610/gitv/live1/G_CCTV-15/G_CCTV-15/.m3u8
-CCTV-1综合,http://39.130.206.213:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8 
-CCTV-1综合,http://39.130.206.213:6410/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-CCTV-2财经,http://39.130.206.213:6410/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8 
-CCTV-3综艺,http://39.130.206.213:6410/gitv_live/CCTV-3/CCTV-3.m3u8 
-CCTV-4中文国际,http://39.130.206.213:6410/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8 
-CCTV-5体育,http://39.130.206.213:6410/gitv_live/CCTV-5/CCTV-5.m3u8 
-CCTV-体育赛事,http://39.130.206.213:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8 
-CCTV-6电影,http://39.130.206.213:6410/gitv_live/CCTV-6/CCTV-6.m3u8 
-CCTV-7国防军事,http://39.130.206.213:6410/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8 
-CCTV-8电视剧,http://39.130.206.213:6410/gitv_live/G_CCTV-8/G_CCTV-8.m3u8 
-CCTV-9记录,http://39.130.206.213:6410/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
-CCTV-10科教,http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8 
-CCTV-11戏曲,http://39.130.206.213:6410/gitv_live/CCTV-11/CCTV-11.m3u8
-CCTV-12社会与法,http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8 
-CCTV-13新闻,http://39.130.206.213:6410/gitv_live/CCTV-13/CCTV-13.m3u8 
-CCTV-14少儿,http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-CCTV-15音乐,http://39.130.206.213:6410/gitv_live/G_CCTV-15/G_CCTV-15.m3u8 
-CCTV-17农业农村,http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
-江苏卫视 ,http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8 
-湖南卫视 ,http://39.130.206.213:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8 
-浙江卫视 ,http://39.130.206.213:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8 
-东方卫视 ,http://39.130.206.213:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8 
-北京卫视 ,http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8 
-湖北卫视 ,http://39.130.206.213:6410/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8 
-四川卫视 ,http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8 
-天津卫视 ,http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8 
-安徽卫视 ,http://39.130.206.213:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8 
-山东卫视 ,http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8 
-东南卫视 ,http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8 
-江西卫视 ,http://39.130.206.213:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8 
-辽宁卫视,http://39.130.206.213:6410/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8 
-广东卫视,http://39.130.206.213:6410/gitv_live/GDWS-HD/GDWS-HD.m3u8 
-深圳卫视 ,http://39.130.206.213:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8 
-贵州卫视 ,http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8 
-重庆卫视 ,http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8 
-黑龙江卫视 ,http://39.130.206.213:6410/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8 
-云南卫视 ,http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8 
-广西卫视 ,http://39.130.206.213:6410/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8 
-河北卫视,http://39.130.206.213:6410/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8
-吉林卫视,http://39.130.206.213:6410/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
-河南卫视,http://39.130.206.213:6410/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
-云南影视 ,http://39.130.206.213:6410/gitv_live/G_YNTV-5-HD/G_YNTV-5-HD.m3u8 
-浙江卫视 ,http://39.130.206.213:6410/gitv_live/G_ZHEJIANG/G_ZHEJIANG.m3u8 
-江苏卫视 ,http://39.130.206.213:6410/gitv_live/JSWS-HD/JSWS-HD.m3u8 
-湖南卫视 ,http://39.130.206.213:6410/gitv_live/G_HUNAN/G_HUNAN.m3u8 
-东方卫视 ,http://39.130.206.213:6410/gitv_live/G_DONGFANG/G_DONGFANG.m3u8 
-北京卫视 ,http://39.130.206.213:6410/gitv_live/G_BEIJING/G_BEIJING.m3u8 
-天津卫视 ,http://39.130.206.213:6410/gitv_live/TJWS/TJWS.m3u8 
-安徽卫视 ,http://39.130.206.213:6410/gitv_live/AHWS/AHWS.m3u8 
-深圳卫视 ,http://39.130.206.213:6410/gitv_live/G_SHENZHEN/G_SHENZHEN.m3u8 
-重庆卫视 ,http://39.130.206.213:6410/gitv_live/G_CHONGQING/G_CHONGQING.m3u8 
-山东卫视 ,http://39.130.206.213:6410/gitv_live/SDWS/SDWS.m3u8 
-辽宁卫视 ,http://39.130.206.213:6410/gitv_live/LNWS/LNWS.m3u8 
-湖北卫视 ,http://39.130.206.213:6410/gitv_live/G_HUBEI/G_HUBEI.m3u8 
-四川卫视 ,http://39.130.206.213:6410/gitv_live/SCWS/SCWS.m3u8 
-河南卫视 ,http://39.130.206.213:6410/gitv_live/HENAN/HENAN.m3u8 
-吉林卫视 ,http://39.130.206.213:6410/gitv_live/G_JILIN/G_JILIN.m3u8 
-河北卫视 ,http://39.130.206.213:6410/gitv_live/G_HEBEI/G_HEBEI.m3u8 
-广东卫视 ,http://39.130.206.213:6410/gitv_live/G_GUANGDONG/G_GUANGDONG.m3u8 
-山西卫视 ,http://39.130.206.213:6410/gitv_live/SXWS/SXWS.m3u8 
-东南卫视 ,http://39.130.206.213:6410/gitv_live/DNWS/DNWS.m3u8 
-黑龙江卫视 ,http://39.130.206.213:6410/gitv_live/G_HEILONGJIANG/G_HEILONGJIANG.m3u8 
-江西卫视 ,http://39.130.206.213:6410/gitv_live/JXWS/JXWS.m3u8 
-厦门卫视,http://223.110.241.137:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
-贵州卫视 ,http://39.130.206.213:6410/gitv_live/G_GUIZHOU/G_GUIZHOU.m3u8
-海南卫视 ,http://39.130.206.213:6410/gitv_live/LYWS/LYWS.m3u8 
-内蒙古卫视 ,http://39.130.206.213:6410/gitv_live/G_NEIMENGGU/G_NEIMENGGU.m3u8 
-山东教育卫视 ,http://39.130.206.213:6410/gitv_live/G_SDETV/G_SDETV.m3u8
-CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-CETV-1,http://39.130.206.213:6410/gitv_live/G_CETV-1/G_CETV-1.m3u8 
-广西卫视 ,http://39.130.206.213:6410/gitv_live/GXWS/GXWS.m3u8 
-宁夏卫视 ,http://39.130.206.213:6410/gitv_live/G_NINGXIA/G_NINGXIA.m3u8 
-陕西卫视 ,http://39.130.206.213:6410/gitv_live/G_SHANXI/G_SHANXI.m3u8 
-甘肃卫视 ,http://39.130.206.213:6410/gitv_live/G_GANSU/G_GANSU.m3u8 
-青海卫视 ,http://39.130.206.213:6410/gitv_live/G_QINGHAI/G_QINGHAI.m3u8 
-新疆卫视 ,http://39.130.206.213:6410/gitv_live/G_XINJIANG/G_XINJIANG.m3u8 
-西藏卫视 ,http://39.130.206.213:6410/gitv_live/G_XIZANG/G_XIZANG.m3u8 
-农林卫视 ,http://39.130.206.213:6410/gitv_live/G_NONGLIN/G_NONGLIN.m3u8 
-兵团卫视 ,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
-大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
-湖北综合,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
-湖北经视,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
-湖北公共,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
-湖北垄上,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
-湖北影视,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
-湖北生活,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
-湖北教育,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
-湖北休闲指南,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-湖北综合,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
-湖北经视,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
-湖北公共,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbgg.m3u8
-湖北垄上,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbls.m3u8
-湖北影视,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbys.m3u8
-湖北生活,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
-湖北教育,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
-湖北休闲指南,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-东方影视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-NewTV吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
-NewTV四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
-NewTV安徽,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
-NewTV山东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
-NewTV广东,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
-NewTV江西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
-NewTV云南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
-NewTV广西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
-NewTV江西,http://39.135.139.9:6610/PLTV/88888888/224/3221225979/2/index.m3u8?fmt=ts2hls
-NewTV山东,http://39.135.139.9:6610/PLTV/88888888/224/3221226184/2/index.m3u8?fmt=ts2hls
-NewTV广东,http://39.135.139.9:6610/PLTV/88888888/224/3221226185/2/index.m3u8?fmt=ts2hls
-NewTV四川,http://39.135.139.9:6610/PLTV/88888888/224/3221226187/2/index.m3u8?fmt=ts2hls
-NewTV吉林,http://39.135.139.9:6610/PLTV/88888888/224/3221226189/2/index.m3u8?fmt=ts2hls
-NewTV黑龙江,http://39.135.139.9:6610/PLTV/88888888/224/3221226192/2/index.m3u8?fmt=ts2hls
-NewTV广西,http://39.135.139.9:6610/PLTV/88888888/224/3221226186/2/index.m3u8?fmt=ts2hls
-NewTV云南,http://39.135.139.9:6610/PLTV/88888888/224/3221226188/2/index.m3u8?fmt=ts2hls
-NewTV江西 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225979/index.m3u8
-NewTV山东 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226184/index.m3u8
-NewTV广东 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226185/index.m3u8
-NewTV四川 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226187/index.m3u8
-NewTV吉林 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226189/index.m3u8
-NewTV黑龙江 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226192/index.m3u8
-NewTV广西 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226186/index.m3u8
-NewTV云南 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226188/index.m3u8
-NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/1.m3u8
-NewTV欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/1.m3u8
-NewTV东北热剧,http://39.135.139.9:6610/PLTV/88888888/224/3221226202/2/index.m3u8?fmt=ts2hls
-NewTV欢乐剧场,http://39.135.139.9:6610/PLTV/88888888/224/3221226210/2/index.m3u8?fmt=ts2hls
-NewTV东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-NewTV欢乐剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-IPTV相声小品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226346/index.m3u8
-精彩电视剧,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-G+经典剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225999/1/index.m3u8?fmt=ts2hls
-G+经典剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225999/1/index.m3u8?fmt=ts2hls
-G+谍战剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-G+谍战剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-欢笑剧场,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
-都市剧场,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
-IPTV-8+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226344/index.m3u8
-NewTV军旅剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV古装剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV家庭剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV明星大片 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV爱情喜剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV精品大剧 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
-NewTV精品大剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV超级电视剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-NewTV军旅剧场 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
-NewTV古装剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
-NewTV家庭剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
-NewTV明星大片,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
-NewTV爱情喜剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
-NewTV精品大剧 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
-NewTV超级电视剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-峨眉电影蓝光,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/1.m3u8
-黑莓电影 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
-精彩电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-淘电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-NewTV动作电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV超级电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NewTV动作电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
-NewTV超级电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
-IPTV-6+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226343/index.m3u8
-G+华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-G+华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-淘BABY,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8
-淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
-淘娱乐,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8
-淘电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
-萌宠TV,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8
-大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
-4K超清,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
-NewTV东北热剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-NewTV中国功夫 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-NewTV农业致富 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-NewTV惊悚悬疑 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-NewTV武搏世界 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-NewTV欢乐剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-NewTV潮妈辣婆 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTV炫舞未来 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-NewTV爱情喜剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-NewTV精品纪录 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-NewTV超级体育 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-NewTV超级电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-NewTV超级电视剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-NewTV超级综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-NewTV金牌综艺 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-NewTV明星大片 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-NewTV海外剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV动作电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-NewTV家庭剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-NewTV精品大剧 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-NewTV军事评论 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-NewTV军旅剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV古装剧场 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV怡伴健康 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-NewTV中国功夫,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
-NewTV怡伴健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
-NewTV军事评论,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
-NewTV军旅剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
-NewTV农业致富 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
-NewTV动作电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
-NewTV古装剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
-NewTV家庭剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
-NewTV惊悚悬疑,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
-NewTV明星大片,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
-NewTV武搏世界,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
-NewTV海外剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
-NewTV潮妈辣婆 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
-NewTV炫舞未来 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
-NewTV爱情喜剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
-NewTV精品体育,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
-NewTV精品大剧 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
-NewTV精品纪录,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
-NewTV超级体育,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
-NewTV超级电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
-NewTV超级电视剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
-NewTV超级综艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
-NewTV金牌综艺 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
-NewTV东北热剧 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
-NewTV中国功夫 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
-NewTV军事评论 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
-NewTV军旅剧场 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225669/index.m3u8
-NewTV农业致富 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225670/index.m3u8
-NewTV动作电影 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225671/index.m3u8
-NewTV古装剧场 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225678/index.m3u8
-NewTV家庭剧场 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
-NewTV怡伴健康 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
-NewTV惊悚悬疑 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225717/index.m3u8
-NewTV明星大片 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
-NewTV欢乐剧场 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226210/index.m3u8
-NewTV武搏世界 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225656/index.m3u8
-NewTV海外剧场 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
-NewTV潮妈辣婆 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
-NewTV炫舞未来 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
-NewTV爱情喜剧 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225748/index.m3u8
-NewTV精品体育 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-NewTV精品大剧 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-NewTV精品纪录,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
-NewTV超级体育 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-NewTV超级体育 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
-NewTV超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
-NewTV超级电影 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
-NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
-NewTV超级电视剧 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225625/index.m3u8
-NewTV超级电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225765/index.m3u8
-NewTV超级综艺 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225620/index.m3u8
-NewTV超级综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225768/index.m3u8
-NewTV金牌综艺 ,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
-UTV优视影院,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?
-UTV热播剧场,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-rebojuc/index.m3u8?
-UTV影视精选,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-dongzuody/index.m3u8?
-UTV家庭影院,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jiatingjc/index.m3u8?
-UTV第一剧场,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-diyijc/index.m3u8?
-UTV风云体育,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-fengyuntiyu/index.m3u8?
-UTV钓鱼生活,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-xijutiandi/index.m3u8?
-UTV都市剧场,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-doushijuc/index.m3u8?
-UTV电影天地,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-dianyingtd/index.m3u8?
-UTV经典剧场,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jingdianjuc/index.m3u8?
-UTV经典影视,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jingdianys/index.m3u8?
-UTV金色童年,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jinsetongnian/index.m3u8?
-UTV纪实天下,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jishitianxia/index.m3u8?
-UTV家庭影院,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-jiatingjc/index.m3u8?
-UTV卡通动画,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-katondonghua/index.m3u8?
-UTV热播剧场,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-rebojuc/index.m3u8?
-UTV时尚音乐,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-shishangmusic/index.m3u8?
-UTV舞蹈视界,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshizy/index.m3u8?
-UTV文化教育,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-meiliqingchun/index.m3u8?
-UTV影视精选,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-dongzuody/index.m3u8?
-UTV优视教育,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshijy/index.m3u8?
-UTV优视影院,http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cn:8080/ysten-business/live/SD-1500k-576P-youshiyy/index.m3u8?
-iHOT爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
-iHOT爱浪漫,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com 
-iHOT爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
- iHOT爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHOT爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
- iHOT爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
- iHOT爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
- iHOT爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
-iHOT爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-iHOT爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
-iHOT爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
-iHOT爱经典,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
-iHOT爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-iHOT爱军武,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
-iHOT爱历史,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
-iHOT爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-iHOT爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-iHOT爱玩具,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-iHOT爱动漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
-iHOT爱美食,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
-iHOT爱时尚,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
-iHOT爱都市,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
-iHOT爱悬系,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
-iHOT爱猎奇,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-iHOT爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-iHOT爱解密,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
-iHOT爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-iHOT爱幼教,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
-iHOT爱江湖,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
-iHOT爱世界,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
-iHOT爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-iHOT爱电竞,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
-iHOT爱奇谈,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
-iHOT爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-iHOT爱军武,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/01.m3u8
-iHOT爱解密,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/01.m3u8
-iHOT爱历史,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/01.m3u8
-iHOT爱科学,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-iHOT爱娱乐,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-iHOT爱旅行,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-iHOT爱猎奇,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-iHOT爱时尚,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/01.m3u8
-iHOT爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
-CCTV-1综合,http://39.130.206.213:6410/gitv_live/G_CCTV-1/G_CCTV-1.m3u8 
-CCTV-2财经,http://39.130.206.213:6410/gitv_live/G_CCTV-2/G_CCTV-2.m3u8 
-CCTV-4中文国际,http://39.130.206.213:6410/gitv_live/CCTV-4/CCTV-4.m3u8 
-CCTV-7国防军事 ,http://39.130.206.213:6410/gitv_live/CCTV-7/CCTV-7.m3u8 
-CCTV-10科教,http://39.130.206.213:6410/gitv_live/CCTV-10/CCTV-10.m3u8 
-CCTV-12社会与法,http://39.130.206.213:6410/gitv_live/CCTV-12/CCTV-12.m3u8 
-CCTV-14少儿,http://39.130.206.213:6410/gitv_live/G_CCTV-14/G_CCTV-14.m3u8 
-CCTV-17农业农村,http://39.130.206.213:6410/gitv_live/G_CCTV-17/G_CCTV-17.m3u8
-CETV-2,http://39.130.206.213:6410/gitv_live/G_CETV-2/G_CETV-2.m3u8
-CETV-4,http://39.130.206.213:6410/gitv_live/G_CETV-4/G_CETV-4.m3u8
-南方卫视 ,http://39.130.206.213:6410/gitv_live/G_NANFANG/G_NANFANG.m3u8 
-CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-CGTN纪录 ,http://39.130.206.213:6410/gitv_live/G_CGTVJL/G_CGTVJL.m3u8
-CGTN ,http://39.130.206.213:6410/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8 
-冬奥纪实 ,http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8 
-纪实人文 ,http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8 
-金鹰纪实 ,http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8 
-中国教育早教 ,http://39.130.206.213:6410/gitv_live/G_CETV-ZQJY/G_CETV-ZQJY.m3u8
-金鹰卡通 ,http://39.130.206.213:6410/gitv_live/G_JINYING/G_JINYING.m3u8 
-嘉佳卡通 ,http://39.130.206.213:6410/gitv_live/G_JIAJIA/G_JIAJIA.m3u8 
-哈哈炫动 ,http://39.130.206.213:6410/gitv_live/G_XUANDONG/G_XUANDONG.m3u8 
-卡酷少儿 ,http://39.130.206.213:6410/gitv_live/G_KAKU/G_KAKU.m3u8 
-优漫卡通 ,http://39.130.206.213:6410/gitv_live/G_YOUMAN/G_YOUMAN.m3u8   
-云南卫视 ,http://39.130.206.213:6410/gitv_live/G_YUNNAN/G_YUNNAN.m3u8 
-云南影视 ,http://39.130.206.213:6410/gitv_live/G_YNTV-5/G_YNTV-5.m3u8 
-江苏卫视 ,http://223.110.241.137:6610/gitv/live1/G_JIANGSU-HD/G_JIANGSU-HD/.m3u8 
-湖南卫视 ,http://223.110.241.137:6610/gitv/live1/HNWS-HD/HNWS-HD/.m3u8 
-浙江卫视 ,http://223.110.241.137:6610/gitv/live1/ZJWS-HD/ZJWS-HD/.m3u8 
-东方卫视 ,http://223.110.241.137:6610/gitv/live1/DFWS-HD/DFWS-HD/.m3u8 
-北京卫视 ,http://223.110.241.137:6610/gitv/live1/BTV-1/BTV-1/.m3u8  
-山东卫视 ,http://223.110.241.137:6610/gitv/live1/G_SHANDONG-HD/G_SHANDONG-HD/.m3u8 
-黑龙江卫视 ,http://223.110.241.137:6610/gitv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/.m3u8
-湖北卫视 ,http://223.110.241.137:6610/gitv/live1/G_HUBEI-HQ/G_HUBEI-HQ/.m3u8 
-天津卫视 ,http://223.110.241.137:6610/gitv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/.m3u8 
-辽宁卫视,http://223.110.241.137:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ/.m3u8 
-广东卫视,http://223.110.241.137:6610/gitv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/.m3u8 
-深圳卫视 ,http://223.110.241.137:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/.m3u8 
-湖南卫视,http://223.110.241.137:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/1.m3u8                                                                 
-江苏卫视,http://223.110.241.137:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8                                                                
-北京卫视,http://223.110.241.137:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/1.m3u8                                                     
-浙江卫视,http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8                                                       
-东方卫视,http://223.110.241.137:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8   
-安徽卫视 ,http://223.110.241.137:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/.m3u8 
-浙江卫视,http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/.m3u8
-湖南卫视,http://223.110.241.137:6610/gitv/live1/G_HUNAN/G_HUNAN/.m3u8
-安徽卫视,http://223.110.241.137:6610/gitv/live1/AHWS/AHWS/.m3u8
-辽宁卫视,http://223.110.241.137:6610/gitv/live1/LNWS/LNWS/.m3u8
-山东卫视,http://223.110.241.137:6610/gitv/live1/SDWS/SDWS/.m3u8
-重庆卫视,http://223.110.241.137:6610/gitv/live1/G_CHONGQING/G_CHONGQING/.m3u8
-四川卫视,http://223.110.241.137:6610/gitv/live1/SCWS/SCWS/.m3u8
-河南卫视,http://223.110.241.137:6610/gitv/live1/HENAN/HENAN/.m3u8
-东南卫视,http://223.110.241.137:6610/gitv/live1/DNWS/DNWS/.m3u8
-天津卫视,http://223.110.241.137:6610/gitv/live1/TJWS/TJWS/.m3u8
-江西卫视,http://223.110.241.137:6610/gitv/live1/JXWS/JXWS/.m3u8
-湖北卫视,http://223.110.241.137:6610/gitv/live1/G_HUBEI/G_HUBEI/.m3u8
-吉林卫视,http://223.110.241.137:6610/gitv/live1/G_JILIN/G_JILIN/.m3u8
-山西卫视,http://223.110.241.137:6610/gitv/live1/SXWS/SXWS/.m3u8
-厦门卫视,http://223.110.241.137:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
-贵州卫视,http://223.110.241.137:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/.m3u8
-东方卫视,http://223.110.241.137:6610/gitv/live1/G_DONGFANG/G_DONGFANG/.m3u8
-北京卫视,http://223.110.241.137:6610/gitv/live1/G_BEIJING/G_BEIJING/.m3u8
-广东卫视,http://223.110.241.137:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/.m3u8
-深圳卫视,http://223.110.241.137:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/.m3u8
-黑龙江卫视,http://223.110.241.137:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/.m3u8
-山东教育电视台,http://223.110.241.137:6610/gitv/live1/G_SDETV/G_SDETV/.m3u8
-CETV-1,http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/.m3u8
-CETV-2,http://223.110.241.137:6610/gitv/live1/G_CETV-2/G_CETV-2/.m3u8
-CETV-3,http://223.110.241.137:6610/gitv/live1/G_CETV-3/G_CETV-3/.m3u8
-CETV-4,http://223.110.241.137:6610/gitv/live1/G_CETV-4/G_CETV-4/.m3u8
-CGTN,http://223.110.241.137:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/.m3u8
-内蒙古卫视,http://223.110.241.137:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/.m3u8
-河北卫视,http://223.110.241.137:6610/gitv/live1/G_HEBEI/G_HEBEI/.m3u8
-陕西卫视,http://223.110.241.137:6610/gitv/live1/G_SHANXI/G_SHANXI/.m3u8
-南方卫视,http://223.110.241.137:6610/gitv/live1/G_NANFANG/G_NANFANG/.m3u8
-广西卫视,http://223.110.241.137:6610/gitv/live1/GXWS/GXWS/.m3u8
-海南卫视,http://223.110.241.137:6610/gitv/live1/LYWS/LYWS/.m3u8
-云南卫视,http://223.110.241.137:6610/gitv/live1/G_YUNNAN/G_YUNNAN/.m3u8
-兵团卫视,http://223.110.241.137:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/.m3u8
-延边卫视,http://223.110.241.137:6610/gitv/live1/G_YANBIAN/G_YANBIAN/.m3u8
-青海卫视,http://223.110.241.137:6610/gitv/live1/G_QINGHAI/G_QINGHAI/.m3u8
-宁夏卫视,http://223.110.241.137:6610/gitv/live1/G_NINGXIA/G_NINGXIA/.m3u8
-新疆卫视,http://223.110.241.137:6610/gitv/live1/G_XINJIANG/G_XINJIANG/.m3u8
-甘肃卫视,http://223.110.241.137:6610/gitv/live1/G_GANSU/G_GANSU/.m3u8
-西藏卫视,http://223.110.241.137:6610/gitv/live1/G_XIZANG/G_XIZANG/.m3u8
-优漫卡通,http://223.110.241.137:6610/gitv/live1/G_YOUMAN/G_YOUMAN/.m3u8
-安多卫视,http://223.110.241.137:6610/gitv/live1/G_ANDUO/G_ANDUO/.m3u8
-篮球,http://223.110.241.137:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/.m3u8
-农林卫视,http://223.110.241.137:6610/gitv/live1/G_NONGLIN/G_NONGLIN/.m3u8
-康巴卫视,http://223.110.241.137:6610/gitv/live1/G_KANGBA/G_KANGBA/.m3u8
-京视剧场,http://223.110.241.137:6610/gitv/live1/G_JINGJU/G_JINGJU/.m3u8
-新娱乐,http://223.110.241.137:6610/gitv/live1/G_XINYULE/G_XINYULE/.m3u8
-家庭理财,http://223.110.241.137:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/.m3u8
-发现之旅,http://223.110.241.137:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/.m3u8
-弈坛春秋,http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/.m3u8
-老故事,http://223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/.m3u8
-女性时尚,http://223.110.241.137:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/.m3u8
-高尔夫,http://223.110.241.137:6610/gitv/live1/G_GAOERFU/G_GAOERFU/.m3u8
-职业指南,http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/.m3u8
-中国交通频道,http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/.m3u8
-国学频道,http://223.110.241.137:6610/gitv/live1/G_GUOXUE/G_GUOXUE/.m3u8
-篮球,http://223.110.241.137:6610/gitv/live1/G_LANQIU/G_LANQIU/.m3u8
-卡酷少儿,http://223.110.241.137:6610/gitv/live1/G_KAKU/G_KAKU/.m3u8
-金鹰卡通,http://223.110.241.137:6610/gitv/live1/G_JINYING/G_JINYING/.m3u8
-嘉佳卡通,http://223.110.241.137:6610/gitv/live1/G_JIAJIA/G_JIAJIA/.m3u8
-哈哈炫动,http://223.110.241.137:6610/gitv/live1/G_XUANDONG/G_XUANDONG/.m3u8
-CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/.m3u8
-CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/.m3u8
-CCTV-3综艺,http://223.110.241.137:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/.m3u8
-CCTV-4中文国际,http://223.110.241.137:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/.m3u8
-CCTV-5体育,http://223.110.241.137:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/.m3u8
-CCTV-体育赛事,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/.m3u8
-CCTV-6电影,http://223.110.241.137:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/.m3u8
-CCTV-8电视剧,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/.m3u8
-CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1/G_CCTV-1/.m3u8
-CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2/G_CCTV-2/.m3u8
-CCTV-8电视剧,http://223.110.241.137:6610/gitv/live1/G_CCTV-8/G_CCTV-8/.m3u8
-
-
-
-
-
-
-
-
-
-移动线路二,#genre#
-CCTV1,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-CCTV2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
-CCTV3,http://211.137.115.110:8080/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
-CCTV4,http://211.137.115.110:8080/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-CCTV5,http://211.137.115.110:8080/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
-CCTV5+,http://211.137.115.110:8080/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-CCTV6,http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
-CCTV7,http://211.137.115.110:8080/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
-CCTV8,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
-CCTV9,http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
-CCTV10,http://211.137.115.110:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
-CCTV11,http://211.137.115.110:8080/gitv_live/CCTV-11/CCTV-11.m3u8
-CCTV12,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-CCTV13,http://211.137.115.110:8080/gitv_live/CCTV-13/CCTV-13.m3u8
-CCTV14,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-CCTV15,http://211.137.115.110:8080/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
-CCTV17,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+CCTV-1综合,http://211.137.115.110:8080/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
+CCTV-2财经,http://211.137.115.110:8080/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
+CCTV-3综艺,http://211.137.115.110:8080/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
+CCTV-4中文国际,http://211.137.115.110:8080/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
+CCTV-5体育,http://211.137.115.110:8080/gitv_live/G_CCTV-5-HD/G_CCTV-5-HD.m3u8
+CCTV-体育赛事,http://211.137.115.110:8080/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV-6电影,http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
+CCTV-7国防军事,http://211.137.115.110:8080/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
+CCTV-8电视剧,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
+CCTV-9记录,http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
+CCTV-10科教,http://211.137.115.110:8080/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+CCTV-11戏曲,http://211.137.115.110:8080/gitv_live/CCTV-11/CCTV-11.m3u8
+CCTV-12社会与法,http://211.137.115.110:8080/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+CCTV-13新闻,http://211.137.115.110:8080/gitv_live/CCTV-13/CCTV-13.m3u8
+CCTV-14少儿,http://211.137.115.110:8080/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+CCTV-15音乐,http://211.137.115.110:8080/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
+CCTV-17农业农村,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 浙江卫视,http://211.137.115.110:8080/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
 江苏卫视,http://211.137.115.110:8080/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
 湖南卫视,http://211.137.115.110:8080/gitv_live/HNWS-HD/HNWS-HD.m3u8
@@ -554,115 +96,6 @@ CETV3,http://211.137.115.110:8080/gitv_live/G_CETV-3/G_CETV-3.m3u8
 CETV4,http://211.137.115.110:8080/gitv_live/G_CETV-4/G_CETV-4.m3u8
 山东教育电视台,http://211.137.115.110:8080/gitv_live/G_SDETV/G_SDETV.m3u8
 农林卫视,http://211.137.115.110:8080/gitv_live/G_NONGLIN/G_NONGLIN.m3u8
-延边卫视,http://211.137.115.110:8080/gitv_live/G_YANBIAN/G_YANBIAN.m3u8
-安多卫视,http://211.137.115.110:8080/gitv_live/G_ANDUO/G_ANDUO.m3u8
-康巴卫视,http://211.137.115.110:8080/gitv_live/G_KANGBA/G_KANGBA.m3u8
-iptv3+,http://211.137.115.110:8080/gitv_live/G_IPTV-3PLUS/G_IPTV-3PLUS.m3u8
-iptv5+,http://211.137.115.110:8080/gitv_live/G_IPTV-5PLUS-HD/G_IPTV-5PLUS-HD.m3u8
-iptv6+,http://211.137.115.110:8080/gitv_live/G_IPTV-6PLUS/G_IPTV-6PLUS.m3u8
-iptv8+,http://211.137.115.110:8080/gitv_live/G_IPTV-8PLUS/G_IPTV-8PLUS.m3u8
-iptv5+,http://211.137.115.110:8080/gitv_live/G_IPTV-5PLUS/G_IPTV-5PLUS.m3u8
-iptv相声小品,http://211.137.115.110:8080/gitv_live/G_IPTV-XSXP/G_IPTV-XSXP.m3u8
-CGTN,http://211.137.115.110:8080/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
-金鹰纪实,http://211.137.115.110:8080/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
-北京冬奥纪实,http://211.137.115.110:8080/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
-上海纪实,http://211.137.115.110:8080/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
-CCTV1,http://39.130.215.158:6610/gitv_live/CCTV-1-HD/
-CCTV2,http://39.130.215.158:6610/gitv_live/G_CCTV-2-HD/
-CCTV3,http://39.130.215.158:6610/gitv_live/CCTV-3/
-CCTV4,http://39.130.215.158:6610/gitv_live/G_CCTV-4-HD/
-CCTV5,http://39.130.215.158:6610/gitv_live/CCTV-5/
-CCTV5+,http://39.130.215.158:6610/gitv_live/G_CCTV-5PLUS/
-CCTV6,http://39.130.215.158:6610/gitv_live/CCTV-6/
-CCTV7,http://39.130.215.158:6610/gitv_live/G_CCTV-7-HD/
-CCTV8,http://39.130.215.158:6610/gitv_live/G_CCTV-8/
-CCTV9,http://39.130.215.158:6610/gitv_live/G_CCTV-9-HD/
-CCTV10,http://39.130.215.158:6610/gitv_live/G_CCTV-10-HD/
-CCTV11,http://39.130.215.158:6610/gitv_live/CCTV-11/
-CCTV12,http://39.130.215.158:6610/gitv_live/G_CCTV-12-HD/
-CCTV13,http://39.130.215.158:6610/gitv_live/CCTV-13/
-CCTV14,http://39.130.215.158:6610/gitv_live/G_CCTV-14-HD/
-CCTV15,http://39.130.215.158:6610/gitv_live/G_CCTV-15/
-CCTV17,http://39.130.215.158:6610/gitv_live/G_CCTV-17-HD/
-东方卫视,http://39.130.215.158:6610/gitv_live/DFWS-HD/
-湖南卫视,http://39.130.215.158:6610/gitv_live/HNWS-HD/
-江苏卫视,http://39.130.215.158:6610/gitv_live/G_JIANGSU-HD/
-浙江卫视,http://39.130.215.158:6610/gitv_live/ZJWS-HD/
-北京卫视,http://39.130.215.158:6610/gitv_live/BTV-1/
-天津卫视,http://39.130.215.158:6610/gitv_live/G_TIANJIN-HD/
-山东卫视,http://39.130.215.158:6610/gitv_live/G_SHANDONG-HD/
-重庆卫视,http://39.130.215.158:6610/gitv_live/G_CHONGQING-HD/
-湖北卫视,http://39.130.215.158:6610/gitv_live/G_HUBEI-HD/
-江西卫视,http://39.130.215.158:6610/gitv_live/G_JIANGXI-HD/
-安徽卫视,http://39.130.215.158:6610/gitv_live/G_ANHUI-HD/
-广东卫视,http://39.130.215.158:6610/gitv_live/GDWS-HD/
-深圳卫视,http://39.130.215.158:6610/gitv_live/SZWS-HD/
-四川卫视,http://39.130.215.158:6610/gitv_live/G_SICHUAN-HD/
-东南卫视,http://39.130.215.158:6610/gitv_live/G_DONGNAN-HD/
-辽宁卫视,http://39.130.215.158:6610/gitv_live/G_LIAONING-HD/
-黑龙江卫视,http://39.130.215.158:6610/gitv_live/G_HEILONGJIANG-HD/
-广西卫视,http://39.130.215.158:6610/gitv_live/G_GUANGXI-HD/
-贵州卫视,http://39.130.215.158:6610/gitv_live/G_GUIZHOU-HD/
-云南卫视,http://39.130.215.158:6610/gitv_live/G_YUNNAN-HD/
-河北卫视,http://39.130.215.158:6610/gitv_live/G_HEBEI-HQ/
-吉林卫视,http://39.130.215.158:6610/gitv_live/G_JILIN-HQ/
-河南卫视,http://39.130.215.158:6610/gitv_live/G_HENAN-HQ/
-云南影视,http://39.130.215.158:6610/gitv_live/G_YNTV-5-HD/
-北京卫视,http://39.130.215.158:6610/gitv_live/G_BEIJING/
-东方卫视,http://39.130.215.158:6610/gitv_live/G_DONGFANG/
-天津卫视,http://39.130.215.158:6610/gitv_live/TJWS/
-重庆卫视,http://39.130.215.158:6610/gitv_live/G_CHONGQING/
-黑龙江卫视,http://39.130.215.158:6610/gitv_live/G_HEILONGJIANG/
-吉林卫视,http://39.130.215.158:6610/gitv_live/G_JILIN/
-辽宁卫视,http://39.130.215.158:6610/gitv_live/LNWS/
-内蒙古卫视,http://39.130.215.158:6610/gitv_live/G_NEIMENGGU/
-河北卫视,http://39.130.215.158:6610/gitv_live/G_HEBEI/
-山西卫视,http://39.130.215.158:6610/gitv_live/SXWS/
-山东卫视,http://39.130.215.158:6610/gitv_live/SDWS/
-安徽卫视,http://39.130.215.158:6610/gitv_live/AHWS/
-河南卫视,http://39.130.215.158:6610/gitv_live/HENAN/
-湖北卫视,http://39.130.215.158:6610/gitv_live/G_HUBEI/
-湖南卫视,http://39.130.215.158:6610/gitv_live/G_HUNAN/
-江西卫视,http://39.130.215.158:6610/gitv_live/JXWS/
-江苏卫视,http://39.130.215.158:6610/gitv_live/JSWS-HD/
-浙江卫视,http://39.130.215.158:6610/gitv_live/G_ZHEJIANG/
-东南卫视,http://39.130.215.158:6610/gitv_live/DNWS/
-厦门卫视,http://39.130.215.158:6610/gitv_live/G_XIAMEN/
-广东卫视,http://39.130.215.158:6610/gitv_live/G_GUANGDONG/
-深圳卫视,http://39.130.215.158:6610/gitv_live/G_SHENZHEN/
-南方卫视,http://39.130.215.158:6610/gitv_live/G_NANFANG/
-广西卫视,http://39.130.215.158:6610/gitv_live/GXWS/
-云南卫视,http://39.130.215.158:6610/gitv_live/G_YUNNAN/
-贵州卫视,http://39.130.215.158:6610/gitv_live/G_GUIZHOU/
-四川卫视,http://39.130.215.158:6610/gitv_live/SCWS/
-海南卫视,http://39.130.215.158:6610/gitv_live/LYWS/
-新疆卫视,http://39.130.215.158:6610/gitv_live/G_XINJIANG/
-兵团卫视,http://39.130.215.158:6610/gitv_live/G_BINGTUAN/
-西藏卫视,http://39.130.215.158:6610/gitv_live/G_XIZANG/
-青海卫视,http://39.130.215.158:6610/gitv_live/G_QINGHAI/
-宁夏卫视,http://39.130.215.158:6610/gitv_live/G_NINGXIA/
-甘肃卫视,http://39.130.215.158:6610/gitv_live/G_GANSU/
-陕西卫视,http://39.130.215.158:6610/gitv_live/G_SHANXI/
-农林卫视,http://39.130.215.158:6610/gitv_live/G_NONGLIN/
-康巴卫视,http://39.130.215.158:6610/gitv_live/G_KANGBA/
-CETV1,http://39.130.215.158:6610/gitv_live/G_CETV-1-HD/
-CETV2,http://39.130.215.158:6610/gitv_live/G_CETV-2/
-CETV4,http://39.130.215.158:6610/gitv_live/G_CETV-4/
-CETV早期教育,http://39.130.215.158:6610/gitv_live/G_CETV-ZQJY/
-山东教育电视台,http://39.130.215.158:6610/gitv_live/G_SDETV/
-CCTV1,http://39.130.215.158:6610/gitv_live/G_CCTV-1-CQ/
-CCTV1,http://39.130.215.158:6610/gitv_live/G_CCTV-1/
-CCTV2,http://39.130.215.158:6610/gitv_live/G_CCTV-2/
-CCTV4,http://39.130.215.158:6610/gitv_live/CCTV-4/
-CCTV7,http://39.130.215.158:6610/gitv_live/CCTV-7/
-CCTV10,http://39.130.215.158:6610/gitv_live/CCTV-10/
-CCTV12,http://39.130.215.158:6610/gitv_live/CCTV-12/
-CCTV14,http://39.130.215.158:6610/gitv_live/G_CCTV-14/
-CCTV17,http://39.130.215.158:6610/gitv_live/G_CCTV-17/
-CGTN,http://39.130.215.158:6610/gitv_live/G_CCTV-NEWS/
-CGTN纪录,http://39.130.215.158:6610/gitv_live/G_CGTVJL/
-CGTN纪录,http://39.130.215.158:6610/gitv_live/G_CGTVJL-HD/
-CETV1,http://39.130.215.158:6610/gitv_live/G_CETV-1/
 大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 湖北综合,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbzh.m3u8
 湖北经视,http://36.159.98.232/live.cjyun.org/hubeitv/s10008-live-hbjs.m3u8
@@ -680,8 +113,6 @@ CETV1,http://39.130.215.158:6610/gitv_live/G_CETV-1/
 湖北生活,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
 湖北教育,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 湖北休闲指南,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8 
-武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 东方影视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 NewTV吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
@@ -912,11 +343,111 @@ iHOT爱旅行,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 iHOT爱猎奇,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
 iHOT爱时尚,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/01.m3u8
 iHOT爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/01.m3u8
-卡酷少儿,http://39.130.215.158:6610/gitv_live/G_KAKU/
-哈哈炫动,http://39.130.215.158:6610/gitv_live/G_XUANDONG/
-金鹰卡通,http://39.130.215.158:6610/gitv_live/G_JINYING/
-嘉佳卡通,http://39.130.215.158:6610/gitv_live/G_JIAJIA/
-云南影视,http://39.130.215.158:6610/gitv_live/G_YNTV-5/
+江苏卫视 ,http://223.110.241.137:6610/gitv/live1/G_JIANGSU-HD/G_JIANGSU-HD/.m3u8 
+湖南卫视 ,http://223.110.241.137:6610/gitv/live1/HNWS-HD/HNWS-HD/.m3u8 
+浙江卫视 ,http://223.110.241.137:6610/gitv/live1/ZJWS-HD/ZJWS-HD/.m3u8 
+东方卫视 ,http://223.110.241.137:6610/gitv/live1/DFWS-HD/DFWS-HD/.m3u8 
+北京卫视 ,http://223.110.241.137:6610/gitv/live1/BTV-1/BTV-1/.m3u8  
+山东卫视 ,http://223.110.241.137:6610/gitv/live1/G_SHANDONG-HD/G_SHANDONG-HD/.m3u8 
+黑龙江卫视 ,http://223.110.241.137:6610/gitv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/.m3u8
+湖北卫视 ,http://223.110.241.137:6610/gitv/live1/G_HUBEI-HQ/G_HUBEI-HQ/.m3u8 
+天津卫视 ,http://223.110.241.137:6610/gitv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/.m3u8 
+辽宁卫视,http://223.110.241.137:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ/.m3u8 
+广东卫视,http://223.110.241.137:6610/gitv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/.m3u8 
+深圳卫视 ,http://223.110.241.137:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/.m3u8 
+湖南卫视,http://223.110.241.137:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/1.m3u8                                                                 
+江苏卫视,http://223.110.241.137:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/1.m3u8                                                                
+北京卫视,http://223.110.241.137:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/1.m3u8                                                     
+浙江卫视,http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/1.m3u8                                                       
+东方卫视,http://223.110.241.137:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/1.m3u8   
+安徽卫视 ,http://223.110.241.137:6610/gitv/live1/G_ANHUI-CQ/G_ANHUI-CQ/.m3u8 
+浙江卫视,http://223.110.241.137:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/.m3u8
+湖南卫视,http://223.110.241.137:6610/gitv/live1/G_HUNAN/G_HUNAN/.m3u8
+安徽卫视,http://223.110.241.137:6610/gitv/live1/AHWS/AHWS/.m3u8
+辽宁卫视,http://223.110.241.137:6610/gitv/live1/LNWS/LNWS/.m3u8
+山东卫视,http://223.110.241.137:6610/gitv/live1/SDWS/SDWS/.m3u8
+重庆卫视,http://223.110.241.137:6610/gitv/live1/G_CHONGQING/G_CHONGQING/.m3u8
+四川卫视,http://223.110.241.137:6610/gitv/live1/SCWS/SCWS/.m3u8
+河南卫视,http://223.110.241.137:6610/gitv/live1/HENAN/HENAN/.m3u8
+东南卫视,http://223.110.241.137:6610/gitv/live1/DNWS/DNWS/.m3u8
+天津卫视,http://223.110.241.137:6610/gitv/live1/TJWS/TJWS/.m3u8
+江西卫视,http://223.110.241.137:6610/gitv/live1/JXWS/JXWS/.m3u8
+湖北卫视,http://223.110.241.137:6610/gitv/live1/G_HUBEI/G_HUBEI/.m3u8
+吉林卫视,http://223.110.241.137:6610/gitv/live1/G_JILIN/G_JILIN/.m3u8
+山西卫视,http://223.110.241.137:6610/gitv/live1/SXWS/SXWS/.m3u8
+厦门卫视,http://223.110.241.137:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
+贵州卫视,http://223.110.241.137:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/.m3u8
+东方卫视,http://223.110.241.137:6610/gitv/live1/G_DONGFANG/G_DONGFANG/.m3u8
+北京卫视,http://223.110.241.137:6610/gitv/live1/G_BEIJING/G_BEIJING/.m3u8
+广东卫视,http://223.110.241.137:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/.m3u8
+深圳卫视,http://223.110.241.137:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/.m3u8
+黑龙江卫视,http://223.110.241.137:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/.m3u8
+厦门卫视,http://223.110.241.137:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
+山东教育电视台,http://223.110.241.137:6610/gitv/live1/G_SDETV/G_SDETV/.m3u8
+CETV-1,http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/.m3u8
+CETV-2,http://223.110.241.137:6610/gitv/live1/G_CETV-2/G_CETV-2/.m3u8
+CETV-3,http://223.110.241.137:6610/gitv/live1/G_CETV-3/G_CETV-3/.m3u8
+CETV-4,http://223.110.241.137:6610/gitv/live1/G_CETV-4/G_CETV-4/.m3u8
+CGTN,http://223.110.241.137:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/.m3u8
+内蒙古卫视,http://223.110.241.137:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/.m3u8
+河北卫视,http://223.110.241.137:6610/gitv/live1/G_HEBEI/G_HEBEI/.m3u8
+陕西卫视,http://223.110.241.137:6610/gitv/live1/G_SHANXI/G_SHANXI/.m3u8
+南方卫视,http://223.110.241.137:6610/gitv/live1/G_NANFANG/G_NANFANG/.m3u8
+广西卫视,http://223.110.241.137:6610/gitv/live1/GXWS/GXWS/.m3u8
+海南卫视,http://223.110.241.137:6610/gitv/live1/LYWS/LYWS/.m3u8
+云南卫视,http://223.110.241.137:6610/gitv/live1/G_YUNNAN/G_YUNNAN/.m3u8
+兵团卫视,http://223.110.241.137:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/.m3u8
+延边卫视,http://223.110.241.137:6610/gitv/live1/G_YANBIAN/G_YANBIAN/.m3u8
+青海卫视,http://223.110.241.137:6610/gitv/live1/G_QINGHAI/G_QINGHAI/.m3u8
+宁夏卫视,http://223.110.241.137:6610/gitv/live1/G_NINGXIA/G_NINGXIA/.m3u8
+新疆卫视,http://223.110.241.137:6610/gitv/live1/G_XINJIANG/G_XINJIANG/.m3u8
+甘肃卫视,http://223.110.241.137:6610/gitv/live1/G_GANSU/G_GANSU/.m3u8
+西藏卫视,http://223.110.241.137:6610/gitv/live1/G_XIZANG/G_XIZANG/.m3u8
+优漫卡通,http://223.110.241.137:6610/gitv/live1/G_YOUMAN/G_YOUMAN/.m3u8
+安多卫视,http://223.110.241.137:6610/gitv/live1/G_ANDUO/G_ANDUO/.m3u8
+篮球,http://223.110.241.137:6610/gitv/live1/G_KAOSHIZX/G_KAOSHIZX/.m3u8
+农林卫视,http://223.110.241.137:6610/gitv/live1/G_NONGLIN/G_NONGLIN/.m3u8
+康巴卫视,http://223.110.241.137:6610/gitv/live1/G_KANGBA/G_KANGBA/.m3u8
+京视剧场,http://223.110.241.137:6610/gitv/live1/G_JINGJU/G_JINGJU/.m3u8
+新娱乐,http://223.110.241.137:6610/gitv/live1/G_XINYULE/G_XINYULE/.m3u8
+家庭理财,http://223.110.241.137:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/.m3u8
+发现之旅,http://223.110.241.137:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/.m3u8
+弈坛春秋,http://223.110.241.137:6610/gitv/live1/G_YITANCQ/G_YITANCQ/.m3u8
+老故事,http://223.110.241.137:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/.m3u8
+女性时尚,http://223.110.241.137:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/.m3u8
+高尔夫,http://223.110.241.137:6610/gitv/live1/G_GAOERFU/G_GAOERFU/.m3u8
+职业指南,http://223.110.241.137:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/.m3u8
+中国交通频道,http://223.110.241.137:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/.m3u8
+国学频道,http://223.110.241.137:6610/gitv/live1/G_GUOXUE/G_GUOXUE/.m3u8
+篮球,http://223.110.241.137:6610/gitv/live1/G_LANQIU/G_LANQIU/.m3u8
+卡酷少儿,http://223.110.241.137:6610/gitv/live1/G_KAKU/G_KAKU/.m3u8
+金鹰卡通,http://223.110.241.137:6610/gitv/live1/G_JINYING/G_JINYING/.m3u8
+嘉佳卡通,http://223.110.241.137:6610/gitv/live1/G_JIAJIA/G_JIAJIA/.m3u8
+哈哈炫动,http://223.110.241.137:6610/gitv/live1/G_XUANDONG/G_XUANDONG/.m3u8
+CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/.m3u8
+CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/.m3u8
+CCTV-3综艺,http://223.110.241.137:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/.m3u8
+CCTV-4中文国际,http://223.110.241.137:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/.m3u8
+CCTV-5体育,http://223.110.241.137:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/.m3u8
+CCTV-体育赛事,http://223.110.241.137:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/.m3u8
+CCTV-6电影,http://223.110.241.137:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/.m3u8
+CCTV-8电视剧,http://223.110.241.137:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/.m3u8
+CCTV-1综合,http://223.110.241.137:6610/gitv/live1/G_CCTV-1/G_CCTV-1/.m3u8
+CCTV-2财经,http://223.110.241.137:6610/gitv/live1/G_CCTV-2/G_CCTV-2/.m3u8
+CCTV-8电视剧,http://223.110.241.137:6610/gitv/live1/G_CCTV-8/G_CCTV-8/.m3u8
+延边卫视,http://211.137.115.110:8080/gitv_live/G_YANBIAN/G_YANBIAN.m3u8
+安多卫视,http://211.137.115.110:8080/gitv_live/G_ANDUO/G_ANDUO.m3u8
+康巴卫视,http://211.137.115.110:8080/gitv_live/G_KANGBA/G_KANGBA.m3u8
+iptv3+,http://211.137.115.110:8080/gitv_live/G_IPTV-3PLUS/G_IPTV-3PLUS.m3u8
+iptv5+,http://211.137.115.110:8080/gitv_live/G_IPTV-5PLUS-HD/G_IPTV-5PLUS-HD.m3u8
+iptv6+,http://211.137.115.110:8080/gitv_live/G_IPTV-6PLUS/G_IPTV-6PLUS.m3u8
+iptv8+,http://211.137.115.110:8080/gitv_live/G_IPTV-8PLUS/G_IPTV-8PLUS.m3u8
+iptv5+,http://211.137.115.110:8080/gitv_live/G_IPTV-5PLUS/G_IPTV-5PLUS.m3u8
+iptv相声小品,http://211.137.115.110:8080/gitv_live/G_IPTV-XSXP/G_IPTV-XSXP.m3u8
+CGTN,http://211.137.115.110:8080/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
+金鹰纪实,http://211.137.115.110:8080/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+北京冬奥纪实,http://211.137.115.110:8080/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
+上海纪实,http://211.137.115.110:8080/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 西安教育,http://211.137.115.110:8080/gitv_live/G_XIANJIAOYU/G_XIANJIAOYU.m3u8
 足球,http://211.137.115.110:8080/gitv_live/G_ZUQIU/G_ZUQIU.m3u8
 台球,http://211.137.115.110:8080/gitv_live/G_TAIQIU/G_TAIQIU.m3u8
@@ -971,21 +502,17 @@ CCTV13,http://211.137.115.110:8080/gitv_live/G_CCTV-13-HQ/G_CCTV-13-HQ.m3u8
 
 
 
-移动线路三,#genre#
+移动线路二,#genre#
 CCTV-1综合,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226235/index.m3u8
 CCTV-1综合,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226125/2.m3u8
 CCTV-2财经,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226126/3.m3u8
 CCTV-3综艺,http://211.137.115.110:8080/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
-CCTV-3综艺,http://39.130.215.158:6610/gitv_live/CCTV-3/
 CCTV-4中文国际,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226127/3.m3u8
 CCTV-5体育,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV-5+体育赛事,http://211.137.115.110:8080/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-CCTV-5+体育赛事,http://39.130.215.158:6610/gitv_live/G_CCTV-5PLUS/
 CCTV-6电影,http://211.137.115.110:8080/gitv_live/G_CCTV-6-HD/G_CCTV-6-HD.m3u8
-CCTV-6电影,http://39.130.215.158:6610/gitv_live/CCTV-6/
 CCTV-7国防军事,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226128/3.m3u8
 CCTV-8电视剧,http://211.137.115.110:8080/gitv_live/G_CCTV-8-HD/G_CCTV-8-HD.m3u8
-CCTV-8电视剧,http://39.130.215.158:6610/gitv_live/G_CCTV-8/
 CCTV-9记录,http://211.137.115.110:8080/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 CCTV-10科教,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226241/index.m3u8
 CCTV-10科教,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226129/3.m3u8
@@ -995,7 +522,6 @@ CCTV-13新闻,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226132/3
 CCTV-14少儿,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 CCTV-14少儿,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226134/3.m3u8
 CCTV-15音乐,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226133/3.m3u8
-CCTV-17农业农村,http://39.130.215.158:6610/gitv_live/G_CCTV-17-HD/
 CCTV-17农业农村,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 湖南卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226117/2.m3u8
 浙江卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226257/index.m3u8
@@ -1360,7 +886,7 @@ iHOT爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 
 
 
-移动线路四,#genre# 
+移动线路三,#genre# 
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226457/index.m3u8
@@ -1502,8 +1028,6 @@ IPTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 湖北生活,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
 湖北教育,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 湖北休闲指南,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8 
-武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 东方影视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 NewTV吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
@@ -1748,7 +1272,7 @@ KAKU少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m
 
 
 
-移动线路五,#genre#
+移动线路四,#genre#
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225587/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225755/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225767/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
 CCTV-2财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225746/1.m3u8
 CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/1.m3u8
@@ -1876,8 +1400,6 @@ CCTV-3综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225754/1.m3u
 湖北生活,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbsh.m3u8
 湖北教育,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-hbjy.m3u8
 湖北休闲指南,http://116.211.183.107/live.cjyun.org/hubeitv/s10008-live-xxzn.m3u8
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8 
-武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 东方影视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8
 NewTV吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
