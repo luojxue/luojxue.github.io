@@ -456,7 +456,7 @@ iHOT爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 深圳卫视,http://223.110.241.137:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/.m3u8
 黑龙江卫视,http://223.110.241.137:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/.m3u8
 厦门卫视,http://223.110.241.137:6610/gitv/live1/G_XIAMEN/G_XIAMEN/.m3u8
-山东教育电视台,http://223.110.241.137:6610/gitv/live1/G_SDETV/G_SDETV/.m3u8
+山东教育卫视,http://223.110.241.137:6610/gitv/live1/G_SDETV/G_SDETV/.m3u8
 CETV1,http://223.110.241.137:6610/gitv/live1/G_CETV-1/G_CETV-1/.m3u8
 CETV2,http://223.110.241.137:6610/gitv/live1/G_CETV-2/G_CETV-2/.m3u8
 CETV3,http://223.110.241.137:6610/gitv/live1/G_CETV-3/G_CETV-3/.m3u8
