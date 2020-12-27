@@ -836,7 +836,6 @@ CCTV-17农业农村,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17
 重庆卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8
 黑龙江卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 东南卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
-北京卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225975/3.m3u8
 北京卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226122/2.m3u8
 天津卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226160/1.m3u8
 安徽卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226150/1.m3u8
