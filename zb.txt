@@ -820,7 +820,6 @@ CCTV-17农业农村,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17
 湖北卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226210/index.m3u8
 浙江卫视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225899/3.m3u8
 东方卫视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225887/3.m3u8
-北京卫视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225975/3.m3u8
 天津卫视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226160/3.m3u8
 东南卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226244/index.m3u8
 东方卫视 ,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8
@@ -862,7 +861,6 @@ CCTV-17农业农村,http://211.137.115.110:8080/gitv_live/G_CCTV-17-HD/G_CCTV-17
 江西卫视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226159/3.m3u8
 重庆卫视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226158/3.m3u8
 广西卫视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226161/3.m3u8
-东方影视,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
 欢笑剧场,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
 都市剧场,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
 cetv1,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226179/3.m3u8
@@ -886,7 +884,6 @@ CCTV-14少儿,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226134/3
 CCTV-15音乐,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226133/3.m3u8
 上海IGS,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226136/3.m3u8
 都市剧场,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226143/3.m3u8
-五星体育,http://hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225964/3.m3u8
 四川卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226153/3.m3u8
 贵州卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226155/3.m3u8
 东南卫视,http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226154/3.m3u8
